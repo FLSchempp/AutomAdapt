@@ -17,7 +17,7 @@ P4 TSN Translators
 
 PTP synchronization
 -----------
-##### Synchronizing the PHC (more information at: [TSN Read the Docs](https://tsn.readthedocs.io/timesync.html)).
+### Synchronizing the PHC (more information at: [TSN Read the Docs](https://tsn.readthedocs.io/timesync.html)).
 
 The PHC synchronization step is mandatory for all TSN systems. It guarantees the PHC from the NIC is in sync with the GM clock from the gPTP domain. This is achieved by the ptp4l daemon.
 
