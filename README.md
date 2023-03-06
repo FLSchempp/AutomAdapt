@@ -17,15 +17,17 @@ P4 TSN Translators
 
 PTP synchronization
 -----------
-###### Synchronizing the PHC (https://tsn.readthedocs.io/timesync.html)
+###### Synchronizing the PHC [TSN Read the Docs](https://tsn.readthedocs.io/timesync.html).
 
 The PHC synchronization step is mandatory for all TSN systems. It guarantees the PHC from the NIC is in sync with the GM clock from the gPTP domain. This is achieved by the ptp4l daemon.
 
-To synchronize PHC with the GM clock, run the command below. Make sure to replace eth0 by the interface name corresponding to the TSN-capable NIC in the system.
-`sudo ptp4l -2 -i enp11s0 --domainNumber 24 -s -m`
+To synchronize PHC with the GM clock, run the command below. Make sure to replace Interface_name by the interface name corresponding to the TSN-capable NIC in the system:
+
+`sudo ptp4l -2 -i Interface_name --domainNumber 24 -s -m`
 
 ###### System clock synchronization
-Synchronize the system clock to a PTP hardware clock (PHC), which itself is synchronized by the ptp4l program
+Synchronize the system clock to a PTP hardware clock (PHC), which itself is synchronized by the ptp4l program:
+
 `sudo phc2sys -s enp11s0 -w -n 24 -m`
 
 P4 TSN Translators
