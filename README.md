@@ -7,17 +7,19 @@ AutomAdapt Features
 
 Prerequisites
 -----------
-PTP synchronization
+#### [PTP synchronization](https://github.com/FLSchempp/AutomAdapt/edit/main/README.md#ptp-synchronization-1)
   - **ptp4l**: PHC synchronization
   - **phc2sys**: System clock synchronization
-P4 TSN Translators
-  - Chassis configuration
-  - P4Runtime script
+#### [P4 TSN Translators](https://github.com/FLSchempp/AutomAdapt/edit/main/README.md#p4-tsn-translators-1)
+  - [Stratum](https://github.com/stratum/stratum)
+  - [Python3](https://www.python.org/downloads/)
+  - [Chassis configuration](tsn_translators/chassis_config.pb.txt)
+  - [P4Runtime script](tsn_translators/script_P4RuntimeShell.py)
 
 
 PTP synchronization
 -----------
-### Synchronizing the PHC ######(more information at: [TSN Read the Docs](https://tsn.readthedocs.io/timesync.html)).
+### Synchronizing the PHC
 
 The PHC synchronization step is mandatory for all TSN systems. It guarantees the PHC from the NIC is in sync with the GM clock from the gPTP domain. This is achieved by the ptp4l daemon.
 
@@ -29,6 +31,8 @@ To synchronize PHC with the GM clock, run the command below. Make sure to replac
 Synchronize the system clock to a PTP hardware clock (PHC), which itself is synchronized by the ptp4l program:
 
 `sudo phc2sys -s enp11s0 -w -n 24 -m`
+
+For further information, please refer to [TSN Read the Docs](https://tsn.readthedocs.io/timesync.html).
 
 P4 TSN Translators
 -----------
