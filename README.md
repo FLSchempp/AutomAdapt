@@ -8,8 +8,8 @@ AutomAdapt Features
 Prerequisites
 -----------
 #### [PTP synchronization](https://github.com/FLSchempp/AutomAdapt/edit/main/README.md#ptp-synchronization-1)
-  - **ptp4l**: PHC synchronization
-  - **phc2sys**: System clock synchronization
+  - PHC synchronization: [ptp4l](https://manpages.ubuntu.com/manpages/focal/man8/ptp4l.8.html)
+  - System clock synchronization: [phc2sys](https://manpages.ubuntu.com/manpages/focal/en/man8/phc2sys.8.html)
 #### [P4 TSN Translators](https://github.com/FLSchempp/AutomAdapt/edit/main/README.md#p4-tsn-translators-1)
   - [Stratum](https://github.com/stratum/stratum)
   - [Python3](https://www.python.org/downloads/)
