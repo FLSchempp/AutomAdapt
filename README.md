@@ -1,4 +1,4 @@
-AutomAdapt
+![alt text](https://github.com/FLSchempp/AutomAdapt/blob/main/AutomAdapt_logo.png)
 =======
 AutomAdapt is a tool to implement **Zero Touch Configuration of 5G QoS Flows extended for Time-Sensitive Networking**
 
