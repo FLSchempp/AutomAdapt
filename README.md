@@ -25,20 +25,20 @@ The PHC synchronization step is mandatory for all TSN systems. It guarantees the
 
 To synchronize PHC with the GM clock, run the command below. Make sure to replace Interface_name by the interface name corresponding to the TSN-capable NIC in the system:
 
-`sudo ptp4l -2 -i Interface_name --domainNumber 24 -s -m`
+`$sudo ptp4l -2 -i Interface_name --domainNumber 24 -s -m`
 
 ### System clock synchronization
 Synchronize the system clock to a PTP hardware clock (PHC), which itself is synchronized by the ptp4l program:
 
-`sudo phc2sys -s enp11s0 -w -n 24 -m`
+`$sudo phc2sys -s enp11s0 -w -n 24 -m`
 
 For further information, please refer to [TSN Read the Docs](https://tsn.readthedocs.io/timesync.html).
 
 P4 TSN Translators
 -----------
 
-sudo stratum_bmv2 -chassis_config_file=/etc/stratum/chassis_config.pb.txt -bmv2_log_level=off
+`$sudo stratum_bmv2 -chassis_config_file=/etc/stratum/chassis_config.pb.txt -bmv2_log_level=off`
 
 P4Runtime
 -----------
-sudo python3.8 ~/P4/Script_P4RuntimeShell/script_P4RuntimeShell.py
+`$sudo python3.8 ~/P4/Script_P4RuntimeShell/script_P4RuntimeShell.py`
