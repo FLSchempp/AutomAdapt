@@ -41,4 +41,4 @@ P4 TSN Translators
 
 P4Runtime
 -----------
-`$ sudo python3.8 ~/AutomAdapt/tsn_translators/script_P4RuntimeShell.py`
+`$ sudo python3 ~/AutomAdapt/tsn_translators/script_P4RuntimeShell.py`
