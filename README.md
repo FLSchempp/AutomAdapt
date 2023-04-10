@@ -14,7 +14,7 @@ Prerequisites
   - [Stratum](https://github.com/stratum/stratum)
   - [Python3](https://www.python.org/downloads/)
   - [Chassis configuration](tsn_translators/chassis_config.pb.txt)
-  - [P4Runtime script](tsn_translators/script_P4RuntimeShell.py)
+  - [P4Runtime script](tsn_translators/P4Runtime_DS-TT.py)
 
 
 PTP synchronization
