@@ -8,6 +8,7 @@ AutomAdapt Features
 - Learning
 - Prediction
 - Reconfiguration
+
 Prerequisites
 -----------
 #### [PTP synchronization](https://github.com/FLSchempp/AutomAdapt/edit/main/README.md#ptp-synchronization-1)
