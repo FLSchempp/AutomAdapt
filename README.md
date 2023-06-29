@@ -4,10 +4,10 @@ AutomAdapt is a tool to implement **Zero Touch Configuration of 5G QoS Flows ext
 
 AutomAdapt Features
 ---------------
-- Monitoring
-- Learning
-- Prediction
-- Reconfiguration
+- [Monitoring](https://github.com/FLSchempp/AutomAdapt/tree/main/Monitoring)
+- [Learning](https://github.com/FLSchempp/AutomAdapt/tree/main/Learning)
+- [Prediction](https://github.com/FLSchempp/AutomAdapt/tree/main/Prediction)
+- [Reconfiguration](https://github.com/FLSchempp/AutomAdapt/tree/main/Reconfiguration)
 
 Prerequisites
 -----------
