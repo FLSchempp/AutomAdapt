@@ -11,10 +11,11 @@ AutomAdapt features
 
 AutomAdapt dataset
 ---------------
+- [Data set](https://github.com/FLSchempp/AutomAdapt/tree/main/Dataset)
+  - Automatons
+  - Network configurations
+  - Network KPIs
 - [Evaluation](https://github.com/FLSchempp/AutomAdapt/tree/main/Evaluation)
-- Automatons
-- Network configurations
-- Network KPIs
 
 Prerequisites
 -----------
