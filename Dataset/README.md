@@ -10,14 +10,11 @@ In this project, we follow a specific naming convention for the files. The name 
 
 Where:
 - `FileType`: Indicates the type or category of the file (e.g., Automaton, NetworkConfigurations).
-- `StartDate`: Represents the date in YYYY-MM-DDTHH:MM:SSZ format when the file was created.
-- `Description`: Provides a brief description or relevant keywords for the file.
-- `extension`: Refers to the file extension indicating the file format (e.g., .txt, .csv, .docx).
+- `StartDate`: Represents the date in YYYY-MM-DDTHH:MM:SSZ on which the execution started.
+- `StopDate`: Represents the date in YYYY-MM-DDTHH:MM:SSZ on which the execution was completed.
+- `extension`: Refers to the file extension indicating the file format (e.g., .csv).
 
-For example, a file named `config_20220120_network_settings.txt` indicates a configuration file related to network settings created or modified on January 20, 2022.
-
-Adhering to this naming convention ensures consistency and facilitates easier identification and organization of files within the project. Please ensure that all new files follow this naming format to maintain uniformity.
-
+For example, a file named `Automaton_10s_2023-03-01T00:00:00Z-2023-03-02T00:00:00Z.csv` indicates a learned automaton file with a monitoring cycle time of 10 seconds started on March 01, 2023 00:00:00h and completed on March 02, 2023 00:00:00h. Note that the "ConfigID" can be assigned to specific network parameters using the corresponding network configuration file. In this case, `NetworkConfigurations_10s_2023-03-01T00:00:00Z-2023-03-02T00:00:00Z.csv`
 
 #### Learned automata [Automaton_$Monitoring_cycle_time$_$Start_date$_$Stop_date$]
   - [March 2023](https://github.com/FLSchempp/AutomAdapt/tree/main/Dataset/March%202023)
