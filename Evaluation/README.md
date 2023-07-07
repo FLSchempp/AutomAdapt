@@ -7,7 +7,7 @@ The evaluation process consists of two phases (for further information, please r
 3. **Prediction and reconfiguration phase**: phase in which AutomAdapt is executed using the different automata learned during the initial learning phase. Therefore, predictions and reconfigurations will be performed using the information available in the network states of the corresponding automaton. The following files are available:
    - `AutomatonIDX_Reconfigurations`: Network reconfigurations applied over time during the execution of AutomAdapt using the automaton id X.
    - `AutomatonIDX_NetworkStates_Reconfigurations`: The resulting learned automaton after the execution of AutomAdapt using the automaton id X.
-Note that the resulting network configurations file is the same, since the network configurations applied (reconfigurations) during the execution are the same as those learned in the initial learning phase. Therefore, this file is omitted.
+Note that the resulting network configurations file is the same, since the network configurations applied (reconfigurations) during the execution are the same as those learned in the initial learning phase. Therefore, this file is omitted. 
 
 #### Learned automata
 
