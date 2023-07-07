@@ -6,7 +6,7 @@ The AutomAdapt dataset includes data from 4 full months of testing.
 
 In this project, we follow a specific naming convention for the files. The name format for the files is as follows:
 
-- FileType_MonitoringCycleTime_StartDate_StopDate.extension
+- FileType_MonitoringCycleTime_StartDate_StopDate.extension 
 
 Where:
 - `FileType`: Indicates the type or category of the file (e.g., Automaton, NetworkConfigurations).
