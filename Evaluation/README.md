@@ -1,8 +1,8 @@
 Evaluation process
 -----------
 The evaluation process consists of two phases (for further information, please refer to 'AutomAdapt: Zero Touch Configurationof 5G QoS Flows extended forTime-Sensitive Networking')
-1. Pre-learning phase: initial learning phase where the network configuration is randomly changed to produce an automaton for each traffic pattern.
-2. Prediction and reconfiguration phase: phase in which AutomAdapt is executed using the different automata learned during the initial learning phase. Therefore, predictions and reconfigurations will be performed using the information available in the network states of the corresponding automaton.
+1. **Pre-learning phase**: initial learning phase where the network configuration is randomly changed to produce an automaton for each traffic pattern.
+2. **Prediction and reconfiguration phase**: phase in which AutomAdapt is executed using the different automata learned during the initial learning phase. Therefore, predictions and reconfigurations will be performed using the information available in the network states of the corresponding automaton.
 
 #### [Learned automata](https://github.com/FLSchempp/AutomAdapt/Evaluation/LearnedAutomata)
 
