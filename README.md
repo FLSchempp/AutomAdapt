@@ -12,9 +12,8 @@ AutomAdapt features
 AutomAdapt dataset
 ---------------
 - [Data set](https://github.com/FLSchempp/AutomAdapt/tree/main/Dataset)
-  - Automatons
+  - Learned automata
   - Network configurations
-  - Network KPIs
 - [Evaluation](https://github.com/FLSchempp/AutomAdapt/tree/main/Evaluation)
 
 Prerequisites
