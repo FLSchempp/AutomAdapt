@@ -1,1 +1,1 @@
-![](https://github.com/FLSchempp/AutomAdapt/blob/main/Reconfiguration/AutomAdapt_predictionandreconfiguration_module.png) 
+![](https://github.com/FLSchempp/AutomAdapt/blob/main/Prediction%20and%20reconfiguration/AutomAdapt_predictionandreconfiguration_module.png) 
