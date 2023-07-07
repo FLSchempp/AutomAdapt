@@ -1,1 +1,1 @@
-![](https://github.com/FLSchempp/AutomAdapt/blob/main/Learning/AutomAdapt_Learning_module.png)
+![](https://github.com/FLSchempp/AutomAdapt/blob/main/Learning/AutomAdapt_learning_module.png)
