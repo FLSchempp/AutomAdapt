@@ -51,9 +51,9 @@ DRB_AM={\"distName\":\"$DISTNAME\"\,\"operation\":\"update\"\,\"parameters\":[$d
 
 DATA_DRB="{\"requestId\":1,\"parameters\":{\"name\":\"recommission\",\"parameters\":{\"planObjects\":[$DRB_AM],\"shouldBeActivated\":true}}}"
 
-echo $DATA_DRB
+echo "$DATA_DRB"
 
 #Update the RLC AM values (profile 3) for DRB1
-$ADMIN_CLI --bts-username=$USERNAME --bts-password=$PASSWORD --bts-host=$HOST --bts-port=$PORT --format=$FORMAT --data=$DATA_DRB
+"$ADMIN_CLI" --bts-username="$USERNAME" --bts-password="$PASSWORD" --bts-host="$HOST" --bts-port="$PORT" --format="$FORMAT" --data="$DATA_DRB"
 
-./getConfigMicro.sh $PROFILE
+./getConfigMicro.sh "$PROFILE"
