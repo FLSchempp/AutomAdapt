@@ -42,9 +42,9 @@ Bs_data = BeautifulSoup(data, "xml")
 # `unique`
 mon = Bs_data.find_all('managedObject')
 
-for nokiaObject in mon:
-    if (nokiaObject.attrs['distName'] == 'MRBTS-2/NRBTS-1/NRDRB_RLC_AM-'+profile_id):
-        rlc_o = nokiaObject
+for nokia_object in mon:
+    if (nokia_object.attrs['distName'] == 'MRBTS-2/NRBTS-1/NRDRB_RLC_AM-'+profile_id):
+        rlc_o = nokia_object
 
 for iterator in rlc_o:
     if (iterator != '\n'):
