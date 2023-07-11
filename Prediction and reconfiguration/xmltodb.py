@@ -33,7 +33,7 @@ write_api = client.write_api(write_options=SYNCHRONOUS)
 # file to a variable under the name
 # data
 with open(xmlfilename, 'r') as f:
-        data = f.read()
+    data = f.read()
 
 # Passing the stored data inside
 # the beautifulsoup parser, storing
@@ -46,9 +46,8 @@ Bs_data = BeautifulSoup(data, "xml")
 mon = Bs_data.find_all('managedObject')
 
 for manOb in mon:
-        if (manOb.attrs['distName'] == 'MRBTS-2/NRBTS-1/NRDRB_RLC_AM-'+profile_id):
-                rlc_o = manOb
-                #print(manOb.attrs['distName'])
+    if (manOb.attrs['distName'] == 'MRBTS-2/NRBTS-1/NRDRB_RLC_AM-'+profile_id):
+        rlc_o = manOb
 
 
 for iterator in rlc_o:
@@ -57,5 +56,4 @@ for iterator in rlc_o:
                 childvalue = iterator.contents[0]
                 p = influxdb_client.Point("configuration").tag("parameter", childname).field("value", childvalue)
                 write_api.write(bucket=bucket, org=org, record=p)
-                #print("%s = %s" % (childname, childvalue))
 
