@@ -45,15 +45,15 @@ Bs_data = BeautifulSoup(data, "xml")
 # `unique`
 mon = Bs_data.find_all('managedObject')
 
-for manOb in mon:
-    if (manOb.attrs['distName'] == 'MRBTS-2/NRBTS-1/NRDRB_RLC_AM-'+profile_id):
-        rlc_o = manOb
+for manObj in mon:
+    if (manObj.attrs['distName'] == 'MRBTS-2/NRBTS-1/NRDRB_RLC_AM-'+profile_id):
+        rlc_o = manObj
 
 
 for iterator in rlc_o:
-        if (iterator != '\n'):
-                childname = iterator.attrs['name']
-                childvalue = iterator.contents[0]
-                p = influxdb_client.Point("configuration").tag("parameter", childname).field("value", childvalue)
-                write_api.write(bucket=bucket, org=org, record=p)
+    if (iterator != '\n'):
+        childname = iterator.attrs['name']
+        childvalue = iterator.contents[0]
+        p = influxdb_client.Point("configuration").tag("parameter", childname).field("value", childvalue)
+        write_api.write(bucket=bucket, org=org, record=p)
 
