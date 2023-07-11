@@ -156,7 +156,7 @@ public class KPIgenerator {
         try {
             writeApi.writePoint(point_to_add);
             return true;
-        } catch (Exception e) {
+        } catch (InfluxException e) {
             throw new RuntimeException(e);
         }
     }
