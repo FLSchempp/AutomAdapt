@@ -27,8 +27,6 @@ client = influxdb_client.InfluxDBClient(
 # Write script
 write_api = client.write_api(write_options=SYNCHRONOUS)
 
-
-
 # Reading the data inside the xml
 # file to a variable under the name
 # data
@@ -40,15 +38,13 @@ with open(xmlfilename, 'r') as f:
 # the returned object
 Bs_data = BeautifulSoup(data, "xml")
 
-
 # Finding all instances of tag
 # `unique`
 mon = Bs_data.find_all('managedObject')
 
-for manObj in mon:
-    if (manObj.attrs['distName'] == 'MRBTS-2/NRBTS-1/NRDRB_RLC_AM-'+profile_id):
-        rlc_o = manObj
-
+for nokiaObject in mon:
+    if (nokiaObject.attrs['distName'] == 'MRBTS-2/NRBTS-1/NRDRB_RLC_AM-'+profile_id):
+        rlc_o = nokiaObject
 
 for iterator in rlc_o:
     if (iterator != '\n'):
