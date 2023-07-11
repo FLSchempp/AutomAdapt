@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2f4106b7e3584bf9bb49a03e7682995d)](https://app.codacy.com/gh/FLSchempp/AutomAdapt/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 ![](https://github.com/FLSchempp/AutomAdapt/blob/main/AutomAdapt.gif)
 =======
 AutomAdapt is a tool to implement **Zero Touch Configuration of 5G QoS Flows extended for Time-Sensitive Networking**
