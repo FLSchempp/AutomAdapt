@@ -10,7 +10,7 @@ In this project, we follow a specific naming convention for the files. The name 
 
 Where:
 - `FileType`: Indicates the type or category of the file (e.g., Automaton, NetworkConfigurations = NC).
-- `Traffic pattern ID`: Traffic pattern ID based on the TSN traffic classes defined in [[1]](#1) (see [traffic pattern table](https://github.com/FLSchempp/AutomAdapt/edit/main/Dataset/README.md#traffic-pattern-id---mapping-table)).
+- `Traffic pattern ID`: Traffic pattern (TP) ID based on the TSN traffic classes defined in [[1]](#1) (see [traffic pattern table](https://github.com/FLSchempp/AutomAdapt/edit/main/Dataset/README.md#traffic-pattern-id---mapping-table)).
 - `MonitoringCycleTime`: Period to calculate the average results of the observed KPIs (e.g., 10s, 60s).
 - `StartDate`: Represents the date in YYYY-MM-DDTHH:MM:SSZ on which the execution started.
 - `StopDate`: Represents the date in YYYY-MM-DDTHH:MM:SSZ on which the execution was completed.
