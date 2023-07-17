@@ -1,0 +1,16 @@
+configID,qtyID,transition,slapsed_time
+e7b1c2e05380a65cf11534b8c9d1df0758d23ae1ab567245689324d0df8a62e6,1,"['qty-1', 'qty-1']","[140, 10]"
+e7b1c2e05380a65cf11534b8c9d1df0758d23ae1ab567245689324d0df8a62e6,2,"['qty-0', 'config_qty-2']","[10, 30]"
+4a977c5b84d754d11c340d59069fe833b62e22d7bffd1e031b4cf63b3582bbe6,2,"['qty-3', 'qty-3', 'qty-3', 'qty-3', 'qty-3', 'qty-3', 'qty-3', 'qty-3', 'config_qty-4']","[10, 20, 20, 10, 30, 60, 10, 340, 330]"
+4a977c5b84d754d11c340d59069fe833b62e22d7bffd1e031b4cf63b3582bbe6,1,"['qty-2', 'qty-2', 'qty-2', 'qty-2', 'qty-2', 'qty-2', 'qty-2', 'qty-2']","[40, 20, 10, 20, 10, 10, 10, 10]"
+e805c93a58509ed6b3f726491782f4df9ad632f9331a7aa1c90d53171b21b409,2,['config_qty-5'],[960]
+6b9d65c9cfb4782142bb1f3da97ac8f799b60de712695b5beb18d7fd341961e3,2,"['qty-6', 'config_qty-7']","[930, 20]"
+6b9d65c9cfb4782142bb1f3da97ac8f799b60de712695b5beb18d7fd341961e3,13,['qty-5'],[10]
+0f8302127421f26851eb165f8a040d21f8cfbed067aaceac0ce7ee28a17d47b9,13,"['qty-8', 'qty-9', 'config_qty-11']","[380, 10, 10]"
+0f8302127421f26851eb165f8a040d21f8cfbed067aaceac0ce7ee28a17d47b9,1,"['qty-9', 'qty-9', 'qty-10']","[170, 10, 10]"
+0f8302127421f26851eb165f8a040d21f8cfbed067aaceac0ce7ee28a17d47b9,12,"['qty-8', 'qty-7', 'qty-8']","[10, 40, 60]"
+0f8302127421f26851eb165f8a040d21f8cfbed067aaceac0ce7ee28a17d47b9,2,['qty-7'],[270]
+caac81592edfc7c03bf1e9fc68ce32150e2691726f2914a1490b554dffdf3441,2,"['qty-12', 'qty-12', 'qty-12', 'config_qty-13']","[670, 10, 10, 80]"
+caac81592edfc7c03bf1e9fc68ce32150e2691726f2914a1490b554dffdf3441,1,"['qty-11', 'qty-11', 'qty-11']","[130, 50, 10]"
+b4554ea2065c14d649e20d58ca48bc1a9ec9d5d3df3a126ba00d84b7602773fd,2,"['qty-14', 'qty-14', 'qty-14', 'qty-14']","[40, 10, 20, 60]"
+b4554ea2065c14d649e20d58ca48bc1a9ec9d5d3df3a126ba00d84b7602773fd,1,"['qty-13', 'qty-13', 'qty-13']","[280, 10, 310]"

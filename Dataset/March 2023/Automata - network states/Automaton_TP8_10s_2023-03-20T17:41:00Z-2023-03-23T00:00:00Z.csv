@@ -1,0 +1,393 @@
+configID,qtyID,transition,slapsed_time
+0,2,['config_qty-1'],[90]
+19432273e76458bec5ed58bbfcb55593b9c6c1fe2bcaf3b830f6d517fe672042,2,['config_qty-2'],[960]
+ba1310cb917d0129708be32c3e9d206c0fa84f3453bbf15185eed96c5e956be3,2,['config_qty-3'],[960]
+11c4d138b8dd9a0b9b1090ca3cbf420d5a38d64f1da26b7231262042443c4aa2,2,"['qty-4', 'config_qty-5']","[900, 50]"
+11c4d138b8dd9a0b9b1090ca3cbf420d5a38d64f1da26b7231262042443c4aa2,13,['qty-3'],[10]
+b9947b172dd1ad8800b8f36fcc4551a63a39def436ccb2f974384c3aaaeabc41,13,"['qty-6', 'qty-6', 'qty-6', 'qty-6', 'qty-6']","[10, 10, 10, 10, 10]"
+b9947b172dd1ad8800b8f36fcc4551a63a39def436ccb2f974384c3aaaeabc41,2,"['qty-5', 'qty-5', 'qty-5', 'qty-5', 'config_qty-7']","[320, 140, 10, 390, 30]"
+c686e8e7bc57e36f38dc2eda6e37788306bba6f3df81bfdb4f6daae7267227ca,2,"['qty-8', 'qty-8', 'qty-8', 'qty-8', 'qty-8', 'qty-8', 'qty-8']","[10, 220, 40, 10, 100, 50, 10]"
+c686e8e7bc57e36f38dc2eda6e37788306bba6f3df81bfdb4f6daae7267227ca,13,"['qty-7', 'qty-7', 'qty-7', 'qty-7', 'qty-7', 'qty-7', 'config_qty-9']","[30, 10, 30, 160, 10, 30, 270]"
+6afce5332b8c368613ffb20e1a432b3ee57c54a235c0331631d3ea89b5de7fb2,2,"['qty-10', 'config_qty-13']","[10, 10]"
+6afce5332b8c368613ffb20e1a432b3ee57c54a235c0331631d3ea89b5de7fb2,1,"['qty-11', 'qty-12', 'qty-12', 'qty-12', 'qty-12', 'qty-9']","[240, 50, 390, 10, 10, 30]"
+6afce5332b8c368613ffb20e1a432b3ee57c54a235c0331631d3ea89b5de7fb2,13,['qty-10'],[10]
+6afce5332b8c368613ffb20e1a432b3ee57c54a235c0331631d3ea89b5de7fb2,12,"['qty-10', 'qty-10', 'qty-10', 'qty-10']","[150, 20, 10, 20]"
+6a2ca87aeac255c00e63d7ff6702ec63a82c5a6ab665fe7af9446e85ad7976d8,1,"['qty-14', 'qty-14']","[900, 40]"
+6a2ca87aeac255c00e63d7ff6702ec63a82c5a6ab665fe7af9446e85ad7976d8,2,"['qty-13', 'config_qty-15']","[10, 10]"
+f67f53a490f45a08986fd86847fda549f82a5ecfdd2853af9d49778b36f6f830,1,"['qty-16', 'qty-16']","[780, 160]"
+f67f53a490f45a08986fd86847fda549f82a5ecfdd2853af9d49778b36f6f830,2,"['qty-15', 'config_qty-17']","[10, 10]"
+b986762a42b51419c5f44a5719e4c8de9bcd062fb5b91c482fd7c714619c4cd0,1,"['qty-18', 'qty-18', 'config_qty-19']","[120, 770, 40]"
+b986762a42b51419c5f44a5719e4c8de9bcd062fb5b91c482fd7c714619c4cd0,2,"['qty-17', 'qty-17']","[10, 10]"
+7b2acf6ca1fb2f09f9003253b7db64300eb448b8c39a5601c324c447a770d70b,1,"['qty-20', 'qty-20', 'qty-20', 'qty-20', 'qty-20', 'qty-20', 'config_qty-21']","[700, 200, 30, 50, 610, 210, 50]"
+7b2acf6ca1fb2f09f9003253b7db64300eb448b8c39a5601c324c447a770d70b,2,"['qty-19', 'qty-19', 'qty-19', 'qty-19', 'qty-19', 'qty-19']","[10, 10, 10, 10, 10, 10]"
+0220158585b8987a2c29df464864fa89526c587cd4550ea3beddad36bc169700,2,"['qty-22', 'qty-22', 'qty-22', 'qty-22']","[10, 10, 10, 10]"
+0220158585b8987a2c29df464864fa89526c587cd4550ea3beddad36bc169700,1,"['qty-21', 'qty-21', 'qty-21', 'config_qty-23']","[10, 600, 260, 30]"
+0241b4aa87f20d1e1a36596cc5d969ea3df6dbd275d5209eeac4003f212b13e5,1,"['qty-24', 'qty-24', 'qty-24', 'qty-24', 'qty-24', 'qty-24', 'qty-24', 'qty-24', 'qty-24', 'qty-24', 'qty-24', 'qty-24', 'qty-24', 'qty-24', 'qty-24']","[10, 10, 10, 10, 120, 290, 20, 10, 20, 50, 30, 40, 20, 10, 40]"
+0241b4aa87f20d1e1a36596cc5d969ea3df6dbd275d5209eeac4003f212b13e5,2,"['qty-23', 'qty-23', 'qty-23', 'qty-23', 'qty-23', 'qty-23', 'qty-23', 'qty-23', 'qty-23', 'qty-23', 'qty-23', 'qty-23', 'qty-23', 'qty-23', 'config_qty-25']","[20, 50, 30, 40, 10, 20, 30, 10, 10, 10, 10, 10, 10, 20, 10]"
+1692b73419fc142a7dcc533126fb830800a1c2b53a87d31b229b7f05c7790933,2,"['qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26', 'qty-26']","[10, 250, 10, 10, 10, 100, 20, 50, 20, 10, 10, 30, 10, 40, 10, 10, 20]"
+1692b73419fc142a7dcc533126fb830800a1c2b53a87d31b229b7f05c7790933,1,"['qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'qty-25', 'config_qty-27']","[10, 20, 10, 10, 10, 10, 10, 10, 10, 10, 10, 160, 10, 10, 10, 20, 10]"
+13a99328f6a375ab8120adc8877ade315b40dcc91c33fe9d9ccec186ad7bff74,2,"['qty-28', 'qty-28', 'qty-28', 'qty-28', 'qty-28', 'config_qty-29']","[10, 10, 10, 10, 10, 10]"
+13a99328f6a375ab8120adc8877ade315b40dcc91c33fe9d9ccec186ad7bff74,1,"['qty-27', 'qty-27', 'qty-27', 'qty-27', 'qty-27']","[190, 300, 300, 70, 40]"
+6f94bd79505112790ee5f472310c67ccf6606a4604f432fc5924d47e19e8fcbd,1,"['qty-30', 'qty-30', 'qty-30', 'qty-30', 'qty-30']","[160, 300, 300, 110, 40]"
+6f94bd79505112790ee5f472310c67ccf6606a4604f432fc5924d47e19e8fcbd,2,"['qty-29', 'qty-29', 'qty-29', 'qty-29', 'config_qty-31']","[10, 10, 10, 10, 10]"
+3996d4203c579e55381d3027cd24074229d47b00b20438af65220ae572fb0ac1,1,"['qty-32', 'qty-32', 'qty-32', 'qty-32', 'qty-32', 'qty-32', 'qty-32', 'qty-32', 'qty-32', 'qty-32', 'qty-32', 'qty-32']","[120, 20, 30, 100, 10, 60, 10, 10, 10, 30, 10, 10]"
+3996d4203c579e55381d3027cd24074229d47b00b20438af65220ae572fb0ac1,2,"['qty-31', 'qty-31', 'qty-31', 'qty-31', 'qty-31', 'qty-31', 'qty-31', 'qty-31', 'qty-31', 'qty-31', 'qty-31', 'config_qty-33']","[10, 10, 10, 10, 10, 20, 40, 50, 30, 220, 30, 100]"
+1d2951fbbb9eab2a53d0b29191a6420397fb8bc16fa225ab87df739216e08ef6,2,['qty-34'],[950]
+1d2951fbbb9eab2a53d0b29191a6420397fb8bc16fa225ab87df739216e08ef6,1,['config_qty-35'],[10]
+64a3f01c20fdb01463df62cec6366d0b217168721baf9c70757b17a23b8814ab,1,"['qty-36', 'qty-36', 'qty-36', 'config_qty-37']","[910, 40, 270, 20]"
+64a3f01c20fdb01463df62cec6366d0b217168721baf9c70757b17a23b8814ab,2,"['qty-35', 'qty-35', 'qty-35']","[10, 10, 10]"
+7e217df2fc11b4d53c3f43e012235d5c8277f0dd2c7cb57abcf5bf1dde52b400,2,"['qty-38', 'qty-38', 'qty-38', 'qty-38', 'qty-38', 'qty-38', 'qty-38', 'qty-38', 'qty-38', 'qty-38', 'qty-38', 'qty-38', 'qty-38', 'qty-38', 'qty-38']","[10, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 50]"
+7e217df2fc11b4d53c3f43e012235d5c8277f0dd2c7cb57abcf5bf1dde52b400,1,"['qty-37', 'qty-37', 'qty-37', 'qty-37', 'qty-37', 'qty-37', 'qty-37', 'qty-37', 'qty-37', 'qty-37', 'qty-37', 'qty-37', 'qty-37', 'qty-37', 'config_qty-39']","[90, 60, 10, 40, 30, 60, 20, 10, 10, 20, 50, 10, 10, 10, 10]"
+9640c816e2c474e02d00e4380b8d26551fc11dc9038cd217482fefa15181730f,2,"['qty-40', 'qty-40', 'qty-40', 'qty-40', 'qty-40']","[10, 10, 10, 10, 10]"
+9640c816e2c474e02d00e4380b8d26551fc11dc9038cd217482fefa15181730f,1,"['qty-39', 'qty-39', 'qty-39', 'qty-39', 'config_qty-41']","[250, 300, 300, 20, 40]"
+38cd3e6e2e8d0fc424bca704f85c6c3f9e2cbd1cd8276c0711e99fa8f3ac650d,2,['qty-42'],[10]
+38cd3e6e2e8d0fc424bca704f85c6c3f9e2cbd1cd8276c0711e99fa8f3ac650d,1,['config_qty-43'],[950]
+0d2423efb5a07bb2e951548b7ffa5161f47abca5b83452e76df71eeccc57fc9a,1,['config_qty-44'],[960]
+f8dd4381ccce72c18253dbbdd6adf46fee6dc737803b37ff4880fc09e5de397e,1,['config_qty-45'],[950]
+35ad8aba93a8babd21b1be606aa3589063859303183f690357ff918256477d94,1,['config_qty-46'],[960]
+b44b21baea2a23b5fdefc473218cc93d274ff564b8c0b87603a65a1d23979dd0,1,['config_qty-47'],[960]
+943c3550a595316e332dd75d035c20fb5a9c068f00a5f7f5d27df16c3be6dd22,1,['config_qty-48'],[940]
+9986af95b297a1a87263cf78c41048ec9cc7ab6d8cad66622b9200da31123f0c,1,['config_qty-49'],[980]
+511a97c3855aac1cd312a064e7d98314ef57cf712e3a5557ea0b82089455e92a,1,['config_qty-50'],[960]
+5df4088cc5fb0185ca590f17a06676027f34ed5ba51d40caa2361a6882173e91,2,"['qty-51', 'qty-51', 'qty-51']","[10, 10, 10]"
+5df4088cc5fb0185ca590f17a06676027f34ed5ba51d40caa2361a6882173e91,1,"['qty-50', 'qty-50', 'config_qty-52']","[190, 610, 130]"
+2cf9fb7a83cb9e0f10ad16706a95e529ae5b0e730e117e69286a159f4f85b171,1,['qty-53'],[950]
+2cf9fb7a83cb9e0f10ad16706a95e529ae5b0e730e117e69286a159f4f85b171,2,['config_qty-54'],[10]
+881cf91ea0b7e87dad9f8cbd6848b7ee4ab9a5dcbfc4a118a146197474d640a2,1,"['qty-55', 'config_qty-56']","[120, 830]"
+881cf91ea0b7e87dad9f8cbd6848b7ee4ab9a5dcbfc4a118a146197474d640a2,2,['qty-54'],[10]
+eb9b226afb8864e9c56ff2bc8da23c88d7213fb8fdb72b541e6c9b87654165af,1,['config_qty-57'],[950]
+bbb591d57107cf99dd4c0a3a98afae5675be4ac4897ce86b3a6fa5c3ec268aa8,1,"['qty-58', 'qty-58']","[50, 900]"
+bbb591d57107cf99dd4c0a3a98afae5675be4ac4897ce86b3a6fa5c3ec268aa8,2,"['qty-57', 'config_qty-59']","[10, 10]"
+87c3cb6c9fee750a5eb77b4cbccfb9d084b99c89b9266e160973e73cb0bf2b22,1,"['qty-60', 'config_qty-61']","[920, 20]"
+87c3cb6c9fee750a5eb77b4cbccfb9d084b99c89b9266e160973e73cb0bf2b22,2,['qty-59'],[10]
+a1af85bcb1a01282c58c792a4f80be6ca1f48e72c7404a6bfd5c09c8efb03bdf,1,"['qty-62', 'qty-62', 'config_qty-63']","[270, 630, 40]"
+a1af85bcb1a01282c58c792a4f80be6ca1f48e72c7404a6bfd5c09c8efb03bdf,2,"['qty-61', 'qty-61']","[10, 10]"
+125c41886a042f4a3bf23f717864bb8e36edf84129625a0967a45ebd6e21cb58,2,"['qty-64', 'qty-64']","[10, 10]"
+125c41886a042f4a3bf23f717864bb8e36edf84129625a0967a45ebd6e21cb58,1,"['qty-63', 'config_qty-65']","[220, 720]"
+0e4da91b1c5fff60c0dc2a291ff6cf36af36cb2236dd54cea5a33a2484f36de3,1,"['qty-66', 'qty-66', 'qty-66', 'qty-66', 'qty-66', 'qty-66', 'qty-66', 'qty-66', 'qty-66', 'qty-66', 'qty-66']","[190, 300, 190, 20, 40, 10, 10, 20, 10, 10, 10]"
+0e4da91b1c5fff60c0dc2a291ff6cf36af36cb2236dd54cea5a33a2484f36de3,2,"['qty-65', 'qty-65', 'qty-65', 'qty-65', 'qty-65', 'qty-65', 'qty-65', 'qty-65', 'qty-65', 'qty-65', 'config_qty-67']","[10, 10, 10, 10, 10, 10, 10, 10, 20, 30, 20]"
+e0af4d7afff8db6e3a535550b928e84f7536c783f1df48feae4d02d5a84cf03b,2,"['qty-68', 'qty-68']","[390, 550]"
+e0af4d7afff8db6e3a535550b928e84f7536c783f1df48feae4d02d5a84cf03b,1,"['qty-67', 'config_qty-69']","[10, 10]"
+7b0bc636be445201c87c3359a762a99b4d7ff4786fb816b5ff0059ecacb01239,2,['config_qty-70'],[960]
+ab1eb77b6fd40a92286b8f616cdd270e19fe38a95cf1c4b77b9df65394a6b9e1,2,"['qty-71', 'qty-71', 'qty-71', 'qty-71', 'qty-72']","[230, 50, 340, 10, 150]"
+ab1eb77b6fd40a92286b8f616cdd270e19fe38a95cf1c4b77b9df65394a6b9e1,13,"['qty-70', 'qty-70', 'qty-70', 'qty-70']","[10, 20, 20, 120]"
+ab1eb77b6fd40a92286b8f616cdd270e19fe38a95cf1c4b77b9df65394a6b9e1,1,['config_qty-73'],[10]
+c9f8ee53e670b385cddf2b8011e08b48212909136009ba5ac829af018a2c45b9,13,['qty-74'],[10]
+c9f8ee53e670b385cddf2b8011e08b48212909136009ba5ac829af018a2c45b9,1,"['qty-75', 'qty-76', 'qty-75', 'qty-75', 'qty-75', 'qty-76', 'config_qty-77']","[170, 10, 300, 130, 10, 90, 40]"
+c9f8ee53e670b385cddf2b8011e08b48212909136009ba5ac829af018a2c45b9,12,"['qty-74', 'qty-74', 'qty-74', 'qty-74']","[140, 10, 10, 10]"
+c9f8ee53e670b385cddf2b8011e08b48212909136009ba5ac829af018a2c45b9,2,"['qty-74', 'qty-74']","[10, 10]"
+dfa464ffeda3465310e8ab672e327070a27ee08f11afecd180bb6032a135d1b0,1,"['qty-78', 'qty-79', 'qty-79']","[300, 600, 40]"
+dfa464ffeda3465310e8ab672e327070a27ee08f11afecd180bb6032a135d1b0,12,['qty-77'],[10]
+dfa464ffeda3465310e8ab672e327070a27ee08f11afecd180bb6032a135d1b0,2,"['qty-77', 'config_qty-80']","[10, 10]"
+adf77805514ac2a76dccf54702cb26aaabc443fcfc69ed3eb7b5350e36fb0c92,2,"['qty-81', 'qty-81', 'qty-81', 'qty-81', 'qty-81']","[10, 10, 10, 10, 10]"
+adf77805514ac2a76dccf54702cb26aaabc443fcfc69ed3eb7b5350e36fb0c92,1,"['qty-80', 'qty-80', 'qty-80', 'qty-80', 'config_qty-82']","[240, 300, 290, 30, 50]"
+35faa9209cbf8cc159cf5a20712aed58dbff6dee336767c6ba876fbc87e09ef0,1,"['qty-83', 'qty-83', 'config_qty-84']","[210, 300, 430]"
+35faa9209cbf8cc159cf5a20712aed58dbff6dee336767c6ba876fbc87e09ef0,2,"['qty-82', 'qty-82']","[10, 10]"
+2528e062aff82f77786b15ec9adb572cef0d4f9b6d4ccd3c919cad37bf0a2a36,1,['qty-85'],[960]
+2528e062aff82f77786b15ec9adb572cef0d4f9b6d4ccd3c919cad37bf0a2a36,2,['config_qty-86'],[10]
+82d2e95b621b4d8d28f357fb310a42e4ce29b7a476bef876fe02f20e038ce958,1,"['qty-87', 'qty-88', 'qty-87']","[120, 760, 50]"
+82d2e95b621b4d8d28f357fb310a42e4ce29b7a476bef876fe02f20e038ce958,2,"['qty-86', 'config_qty-89']","[10, 10]"
+82d2e95b621b4d8d28f357fb310a42e4ce29b7a476bef876fe02f20e038ce958,13,['qty-86'],[10]
+2350c349495214124d080b7413c867f9dc89f10b4874e40da7d5f5bfb57878d1,1,"['qty-90', 'qty-90', 'config_qty-91']","[390, 290, 260]"
+2350c349495214124d080b7413c867f9dc89f10b4874e40da7d5f5bfb57878d1,2,"['qty-89', 'qty-89']","[10, 10]"
+ef32630097af7a31b257851a4d7cd99b308ab8e14f089b8f5a5c8e1f0fd83363,1,['qty-92'],[950]
+ef32630097af7a31b257851a4d7cd99b308ab8e14f089b8f5a5c8e1f0fd83363,2,['config_qty-93'],[10]
+6cea120e9e5d8974ea7a0d98c6229e1a885bc8fb7bae259a9be57cbb0411ba06,1,['qty-94'],[940]
+6cea120e9e5d8974ea7a0d98c6229e1a885bc8fb7bae259a9be57cbb0411ba06,2,['config_qty-95'],[10]
+10eedd617f5d9dd4393db50e76147a65ccd53f25ee8da2340a98f75072b7fffd,2,"['qty-96', 'qty-96', 'qty-96']","[10, 10, 10]"
+10eedd617f5d9dd4393db50e76147a65ccd53f25ee8da2340a98f75072b7fffd,1,"['qty-95', 'qty-95', 'config_qty-97']","[570, 320, 50]"
+fe8612772badb7367364f290728511fb88ea67941eb70502ac116a630a371891,1,['config_qty-98'],[960]
+6ef37088f8f71bdf681379888c0ecce3a9b2e070078899504044017191dedf76,1,['config_qty-99'],[960]
+3ae9151cc355ef2120252c2332953520ebc6a8bb74b947442804e910ceb54c12,1,['config_qty-100'],[960]
+bf8da52d1e26d87eb48695c300abf5ac8f4e099c6946e75014c7873f7e34a10b,1,['config_qty-101'],[950]
+2a49a0bdf48102fe91d3d5bf77550b5efb22ed85fccc8ce70b2b8d4923143733,1,"['qty-102', 'config_qty-103']","[70, 880]"
+2a49a0bdf48102fe91d3d5bf77550b5efb22ed85fccc8ce70b2b8d4923143733,2,['qty-101'],[10]
+1207c2b35aa256a8579a4afd643268cdf56afd3485e1d73ab1eaf51b7f3cfdd3,2,"['qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104', 'qty-104']","[10, 10, 10, 20, 10, 10, 10, 10, 20, 10, 20, 10, 10, 10, 10, 10, 10, 20, 10, 10, 10, 10, 10]"
+1207c2b35aa256a8579a4afd643268cdf56afd3485e1d73ab1eaf51b7f3cfdd3,1,"['qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'qty-103', 'config_qty-105']","[20, 10, 50, 200, 70, 10, 40, 10, 40, 20, 30, 20, 10, 10, 10, 20, 20, 20, 20, 20, 10, 10, 10]"
+423b834860f69e5816d412bd568e45dd2271cbf4c1249455e847af782c232d9f,1,"['qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106', 'qty-106']","[10, 10, 10, 20, 20, 10, 20, 10, 10, 10, 50, 30, 20, 20, 30, 50, 10, 10, 20, 10, 20, 10, 10, 10, 40, 40]"
+423b834860f69e5816d412bd568e45dd2271cbf4c1249455e847af782c232d9f,2,"['qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'qty-105', 'config_qty-107']","[40, 140, 10, 10, 20, 10, 10, 20, 10, 10, 10, 10, 10, 10, 20, 10, 10, 10, 10, 10, 10, 10, 10, 10, 30, 10]"
+521ed70e7f672021ab61bd2c3fa7ddbd616aa25b5333eef4d30458defa070bd2,2,"['qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108', 'qty-108']","[10, 10, 10, 60, 40, 20, 10, 10, 30, 50, 40, 10, 10, 80, 90, 10, 20, 20, 50, 10, 10, 130]"
+521ed70e7f672021ab61bd2c3fa7ddbd616aa25b5333eef4d30458defa070bd2,1,"['qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'qty-107', 'config_qty-109']","[10, 10, 20, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1bbb3e367ae544fec024e8d812e7ce2b3c53fa5eefec7a762159cc4a2ad8ee09,2,['qty-110'],[10]
+1bbb3e367ae544fec024e8d812e7ce2b3c53fa5eefec7a762159cc4a2ad8ee09,1,"['qty-111', 'qty-111', 'qty-111']","[230, 260, 430]"
+1bbb3e367ae544fec024e8d812e7ce2b3c53fa5eefec7a762159cc4a2ad8ee09,12,"['qty-110', 'qty-110', 'config_qty-112']","[10, 10, 10]"
+4768c03f9b6121b226d61e1b597ae17d965b7f3319cdc2b643ccb297d312c961,1,['config_qty-113'],[960]
+93b53d41f7e3ddf6ee660139ec03c54cc4a7d2056dd929adac69ace1ca56ca92,1,['config_qty-114'],[960]
+7c8ff0d1f01dfc164c4d6406e6b86fe7f78fcca982ace55fd39f6222a073be97,1,['config_qty-115'],[960]
+c0a9ca110ae2fe19d090d83c5ba1d213477a5a79f0c021bfe6ec6af1911c54bc,1,['config_qty-116'],[960]
+7a3dd783f7730335855e6705f5b18f205425f241642e24629a231dc5bd3f349a,1,['config_qty-117'],[950]
+49b7fd28a2362e8273c500b24d4495ef0cb07b7aa0ddf518be761e3b16e2d855,1,"['qty-118', 'config_qty-119']","[120, 830]"
+49b7fd28a2362e8273c500b24d4495ef0cb07b7aa0ddf518be761e3b16e2d855,2,['qty-117'],[10]
+4836717d4d1738e1adb26f5454659a0872127637b790e9e4475846b0cbea34df,2,"['qty-120', 'qty-120']","[10, 10]"
+4836717d4d1738e1adb26f5454659a0872127637b790e9e4475846b0cbea34df,1,"['qty-119', 'config_qty-121']","[480, 460]"
+10e1c60349291380180a991651fea61d503aacc6af080fb602dd949c1d345c79,1,['config_qty-122'],[960]
+0f39947d1ffcfacb2a63d3544304de7524d2d5a2a5c31aae1ec5de1bdd807544,1,['config_qty-123'],[950]
+0d2646a853e2e9fe13d616ace76e890bf51a2961739fb443915f7d731c068d14,2,"['qty-124', 'qty-124', 'qty-124', 'qty-124']","[10, 10, 10, 10]"
+0d2646a853e2e9fe13d616ace76e890bf51a2961739fb443915f7d731c068d14,1,"['qty-123', 'qty-123', 'qty-123', 'config_qty-125']","[100, 290, 300, 230]"
+135c0723916d33b7e7153f633ad283e80835e678ec87c5f31f531a945a7cc8c7,2,"['qty-126', 'qty-126']","[10, 10]"
+135c0723916d33b7e7153f633ad283e80835e678ec87c5f31f531a945a7cc8c7,1,"['qty-125', 'config_qty-127']","[60, 880]"
+11b407f1d903872c3f415030af6f2b934c4b6057a2260d2587f38f556c7d2762,1,['config_qty-128'],[950]
+fc35881826fac05bca27a6c7ae6b541265c9bcddca1b9ab20f0d2855aeb39dd4,2,"['qty-129', 'qty-129', 'qty-129']","[20, 10, 10]"
+fc35881826fac05bca27a6c7ae6b541265c9bcddca1b9ab20f0d2855aeb39dd4,1,"['qty-128', 'qty-128', 'config_qty-130']","[280, 600, 50]"
+7ccd2f593e89d3beaa6ba67940a86c92220e76c29f1fe68acec29dcca12a2458,1,['config_qty-131'],[960]
+0a553f81fe65a6ce880671de9840038102f636d4c9c55d34d1e4b4b99d2baac6,1,"['qty-132', 'config_qty-133']","[900, 50]"
+0a553f81fe65a6ce880671de9840038102f636d4c9c55d34d1e4b4b99d2baac6,2,['qty-131'],[10]
+1f11dadedae83a33662cd2eac211246ea53eeba7e76693df9228070fdd5e32ed,1,['config_qty-134'],[960]
+d10419d4ba8f99c270331e04be1431ddf765e876d97605afb1ece98e11d36cd2,1,"['qty-135', 'qty-135', 'qty-135', 'qty-135', 'qty-135', 'qty-135', 'qty-135', 'qty-135', 'qty-135', 'qty-135', 'qty-135', 'qty-135', 'qty-135', 'qty-135', 'qty-135']","[130, 300, 60, 20, 10, 30, 10, 40, 10, 10, 10, 10, 10, 20, 10]"
+d10419d4ba8f99c270331e04be1431ddf765e876d97605afb1ece98e11d36cd2,2,"['qty-134', 'qty-134', 'qty-134', 'qty-134', 'qty-134', 'qty-134', 'qty-134', 'qty-134', 'qty-134', 'qty-134', 'qty-134', 'qty-134', 'qty-134', 'qty-134', 'config_qty-136']","[10, 10, 10, 10, 10, 10, 10, 10, 20, 10, 40, 40, 10, 40, 40]"
+0b3d0765eada44f1af77de837a49d7c67198e4e2296e6d8aca46278d9d26b4f0,2,['qty-137'],[950]
+0b3d0765eada44f1af77de837a49d7c67198e4e2296e6d8aca46278d9d26b4f0,13,['config_qty-138'],[10]
+66bca5fcb73a135181d86bb09bfd06fb7c78ad90e1c64146845289a4bbfc3b82,2,"['qty-139', 'qty-140', 'qty-141', 'qty-139', 'qty-141']","[50, 120, 610, 90, 30]"
+66bca5fcb73a135181d86bb09bfd06fb7c78ad90e1c64146845289a4bbfc3b82,13,"['qty-138', 'qty-138']","[10, 10]"
+66bca5fcb73a135181d86bb09bfd06fb7c78ad90e1c64146845289a4bbfc3b82,0,['qty-138'],[20]
+66bca5fcb73a135181d86bb09bfd06fb7c78ad90e1c64146845289a4bbfc3b82,1,"['qty-138', 'config_qty-142']","[10, 10]"
+a9ec71997644a33b8a836cd42870196811f37c65a8ffee3f274257e81b8ac3aa,13,"['qty-143', 'qty-144']","[20, 10]"
+a9ec71997644a33b8a836cd42870196811f37c65a8ffee3f274257e81b8ac3aa,2,"['qty-144', 'qty-144', 'qty-144', 'qty-144', 'qty-144', 'qty-144', 'qty-144', 'qty-144']","[40, 30, 10, 10, 10, 10, 10, 10]"
+a9ec71997644a33b8a836cd42870196811f37c65a8ffee3f274257e81b8ac3aa,1,"['qty-143', 'qty-143', 'qty-143', 'qty-143', 'qty-143', 'qty-142', 'qty-145', 'qty-145', 'qty-143', 'qty-145', 'qty-145', 'qty-143', 'config_qty-146']","[10, 10, 10, 10, 100, 40, 70, 30, 140, 160, 20, 10, 20]"
+a9ec71997644a33b8a836cd42870196811f37c65a8ffee3f274257e81b8ac3aa,12,"['qty-144', 'qty-144', 'qty-144', 'qty-144']","[10, 50, 10, 100]"
+545fde1bef583a6ebb6293605d34283f1f02a3a3363671ecae0ad79dc8909477,1,"['qty-147', 'config_qty-148']","[580, 370]"
+545fde1bef583a6ebb6293605d34283f1f02a3a3363671ecae0ad79dc8909477,2,['qty-146'],[10]
+3d87375eabb1eae7095a946a02452de461cfaeb033d786302c3a0a8753bfd3e3,2,['qty-149'],[10]
+3d87375eabb1eae7095a946a02452de461cfaeb033d786302c3a0a8753bfd3e3,1,['config_qty-150'],[950]
+d7af93e2a186a7a9a8a8301229dab63a2859b4bd1962e174aa1a6d5e5debb204,2,"['qty-151', 'qty-151', 'qty-151', 'qty-151', 'qty-151']","[10, 10, 10, 10, 10]"
+d7af93e2a186a7a9a8a8301229dab63a2859b4bd1962e174aa1a6d5e5debb204,1,"['qty-150', 'qty-150', 'qty-150', 'qty-150', 'config_qty-152']","[180, 300, 290, 90, 50]"
+5782b0a75774e0e10e025376dea1c964e330d33907a80a2dacea29d67289dd16,1,"['qty-153', 'config_qty-154']","[900, 50]"
+5782b0a75774e0e10e025376dea1c964e330d33907a80a2dacea29d67289dd16,2,['qty-152'],[10]
+3e6a2d846a8f0bf05323f11b9f92e484322f14be8d191dc6b80232b4812b0959,1,"['qty-155', 'qty-155']","[110, 830]"
+3e6a2d846a8f0bf05323f11b9f92e484322f14be8d191dc6b80232b4812b0959,2,"['qty-154', 'config_qty-156']","[10, 10]"
+07b14802d042ac6f6e297a6a61359488d3e67c27e984f0c621b2c378410f8dd7,1,['config_qty-157'],[960]
+ac4abf15136fc97fac1cbee152d6f2cf0fd2247f27aec2e9917e44bb2ee3d2c1,2,['qty-158'],[10]
+ac4abf15136fc97fac1cbee152d6f2cf0fd2247f27aec2e9917e44bb2ee3d2c1,1,['config_qty-159'],[940]
+2756c2de249c431f531665173431f7200daf2bac6c3257e54435f9cf6abc5840,1,['qty-160'],[960]
+2756c2de249c431f531665173431f7200daf2bac6c3257e54435f9cf6abc5840,2,['config_qty-161'],[10]
+3b64f2305d4aae53e4352c74e35580f30b1b76596dd9b07be38a7ebba18f23e1,1,['qty-162'],[950]
+3b64f2305d4aae53e4352c74e35580f30b1b76596dd9b07be38a7ebba18f23e1,2,['config_qty-163'],[10]
+ac9d76fcc915338447ed6e8c585c2acce89a22fcd8caf04a10325563cf07f572,1,['config_qty-164'],[950]
+b11800e37fe9b2c4e576281802559bb172f0775fa610eba64d0cf966ea51e91b,1,['config_qty-165'],[960]
+0c5fad69e6930f9a73dacd89769ef8b819b4323d926dd9eda971fb65bd524235,2,['qty-166'],[10]
+0c5fad69e6930f9a73dacd89769ef8b819b4323d926dd9eda971fb65bd524235,1,['config_qty-167'],[950]
+d0219f89bd3b358a75c60a30d0c17c915887b5a5e8bc58400eefabb904125101,2,"['qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168', 'qty-168']","[60, 10, 120, 200, 10, 10, 10, 20, 10, 20, 10, 10, 10, 10, 20, 10, 50, 10, 10, 20, 10, 10, 10]"
+d0219f89bd3b358a75c60a30d0c17c915887b5a5e8bc58400eefabb904125101,1,"['qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'qty-167', 'config_qty-169']","[10, 10, 10, 20, 10, 10, 40, 10, 10, 10, 10, 10, 20, 10, 10, 10, 10, 10, 10, 20, 10, 20, 10]"
+89d81b8cc3c076100da71cbd61622b027b3595a39231b7f0133989000462df08,2,"['qty-170', 'qty-170', 'qty-170', 'qty-170', 'qty-170']","[10, 10, 10, 10, 10]"
+89d81b8cc3c076100da71cbd61622b027b3595a39231b7f0133989000462df08,1,"['qty-169', 'qty-169', 'qty-169', 'qty-169', 'config_qty-171']","[50, 290, 300, 230, 40]"
+534e57d0d46ee35e86de6c48c6d8c02144390a79130cf5115622864b85abdccf,2,"['qty-172', 'qty-172']","[30, 10]"
+534e57d0d46ee35e86de6c48c6d8c02144390a79130cf5115622864b85abdccf,1,"['qty-171', 'config_qty-173']","[600, 300]"
+e16072d0a42562b1a797aa12881dec8dba8d377b98db8b2d084991ef58f4af79,1,"['qty-174', 'config_qty-175']","[610, 360]"
+e16072d0a42562b1a797aa12881dec8dba8d377b98db8b2d084991ef58f4af79,12,['qty-173'],[10]
+810745f4937d3173aa0967d3789f4d91a26c2d1d1ab1780febba6c3bbef9d2c6,1,['config_qty-176'],[960]
+2438a55d27f6d2be1328c01ee3dafeff4f5573137aab83195d4ad401a5539706,1,['config_qty-177'],[960]
+8f62bba6ff4f535b196eb91075f1d9f40123556d5cd22e56b80b56c09158f1a1,1,['config_qty-178'],[960]
+923d5d683e6f15ef3205d5313836810d4f6e48918e9ddc8096cba877997d3719,1,['config_qty-179'],[960]
+d986be5199e3b41000065e7a7dcd743c9c549b02b1cdb7f82fff76b7c3809f85,1,['config_qty-180'],[960]
+35e785410f703cdd95af8f9dea2a7e701e666254d4901bc4a30de5261b0ab43c,1,['config_qty-181'],[960]
+5ca2e247c5ccab733205bcab1120cadef1b15d2e1d2869c3dffdc7d33c6b1303,1,"['qty-182', 'qty-184']","[900, 40]"
+5ca2e247c5ccab733205bcab1120cadef1b15d2e1d2869c3dffdc7d33c6b1303,13,['qty-183'],[10]
+5ca2e247c5ccab733205bcab1120cadef1b15d2e1d2869c3dffdc7d33c6b1303,2,['qty-181'],[10]
+5ca2e247c5ccab733205bcab1120cadef1b15d2e1d2869c3dffdc7d33c6b1303,0,['config_qty-185'],[10]
+bf15b5ce48ada886097158db7bdae4af1189f6db9c184ec2d1e81ab124d7280a,1,['qty-186'],[950]
+bf15b5ce48ada886097158db7bdae4af1189f6db9c184ec2d1e81ab124d7280a,2,['config_qty-187'],[10]
+38b37159f8ecf2df769870184baecc5d0ffa1ff87a88dbe6436652c37ddff4b8,1,"['qty-188', 'qty-188', 'qty-188', 'qty-188', 'qty-188', 'qty-188', 'config_qty-189']","[210, 290, 90, 190, 10, 50, 40]"
+38b37159f8ecf2df769870184baecc5d0ffa1ff87a88dbe6436652c37ddff4b8,2,"['qty-187', 'qty-187', 'qty-187', 'qty-187', 'qty-187', 'qty-187']","[10, 20, 10, 10, 10, 10]"
+ace70f89a37bf1e528c465e255d497cce9cee969bd4111f2fedc911a5cffbf64,1,['config_qty-190'],[960]
+294dc09fe66f6e169e2563735271562450260e01e8e7f62b4d25b4bf4c62b8ce,13,['qty-191'],[10]
+294dc09fe66f6e169e2563735271562450260e01e8e7f62b4d25b4bf4c62b8ce,1,"['qty-192', 'qty-192', 'config_qty-193']","[130, 760, 50]"
+294dc09fe66f6e169e2563735271562450260e01e8e7f62b4d25b4bf4c62b8ce,2,"['qty-191', 'qty-191']","[10, 10]"
+2a3494a6ab4bb95e607aa2fc74983fb41edb107de991afbc3c497a76180b399a,2,"['qty-194', 'qty-194', 'qty-194', 'qty-194', 'qty-194', 'config_qty-195']","[10, 10, 10, 10, 10, 10]"
+2a3494a6ab4bb95e607aa2fc74983fb41edb107de991afbc3c497a76180b399a,1,"['qty-193', 'qty-193', 'qty-193', 'qty-193', 'qty-193']","[80, 290, 300, 190, 40]"
+711c35c7cd8aab7dcf6f123d0060af42846e3ea427d32be66d0cf79eba28b878,1,"['qty-196', 'qty-196', 'qty-196', 'qty-196']","[350, 110, 20, 10]"
+711c35c7cd8aab7dcf6f123d0060af42846e3ea427d32be66d0cf79eba28b878,2,"['qty-195', 'qty-195', 'qty-195', 'config_qty-197']","[10, 10, 10, 440]"
+bddf64e933562d2ac14c783c15aeecab5748ad0875f474b8f1944273f86c7c41,2,"['qty-198', 'qty-198', 'qty-198', 'qty-198', 'qty-198', 'qty-198', 'qty-198', 'config_qty-199']","[310, 10, 10, 260, 30, 10, 80, 30]"
+bddf64e933562d2ac14c783c15aeecab5748ad0875f474b8f1944273f86c7c41,13,"['qty-197', 'qty-197', 'qty-197', 'qty-197', 'qty-197', 'qty-197', 'qty-197']","[20, 10, 20, 20, 20, 120, 10]"
+50b00829a965c2a5fd191e0e9d5adfbcb876fa936e827fdd2b05e36d8c36da28,2,"['qty-200', 'qty-200', 'qty-200', 'qty-200', 'qty-200']","[10, 20, 10, 10, 10]"
+50b00829a965c2a5fd191e0e9d5adfbcb876fa936e827fdd2b05e36d8c36da28,13,"['qty-199', 'qty-199', 'qty-199', 'qty-199', 'config_qty-201']","[20, 30, 280, 50, 520]"
+529c35ac9c92bc08c2ad0c165b818af89e4b01bc52d73aabf06255270a272698,13,['config_qty-202'],[960]
+f747f3f93630fcb74c4fd084a7d5324d2192a4007d42050bce95ed1c5bdadf44,13,['config_qty-203'],[960]
+e7dcfdd48976832fe3b0e9f91306761cceb04b65e9ac6a3cfdb405ed9ae3e863,13,['config_qty-204'],[950]
+59af19cdba310c0d4371db911dee63dd97fed2d25949459f7be7b939bd3bff5f,13,"['qty-205', 'config_qty-206']","[750, 190]"
+59af19cdba310c0d4371db911dee63dd97fed2d25949459f7be7b939bd3bff5f,2,['qty-204'],[10]
+c97a21fbec04ff63ca23baf1204e5ad562b8e4b9f58219663912ebcc05dba0ba,13,"['qty-207', 'qty-208', 'qty-209', 'qty-208']","[20, 20, 10, 10]"
+c97a21fbec04ff63ca23baf1204e5ad562b8e4b9f58219663912ebcc05dba0ba,2,['qty-208'],[10]
+c97a21fbec04ff63ca23baf1204e5ad562b8e4b9f58219663912ebcc05dba0ba,12,"['qty-206', 'qty-209', 'qty-209', 'qty-206', 'qty-209', 'qty-209', 'config_qty-210']","[40, 150, 10, 180, 10, 10, 10]"
+c97a21fbec04ff63ca23baf1204e5ad562b8e4b9f58219663912ebcc05dba0ba,1,"['qty-206', 'qty-208', 'qty-208', 'qty-208', 'qty-208']","[140, 90, 20, 200, 40]"
+f1885cdc3b7f46785199c9962b02382649c8d0f20f4176682e049ace9847a7f5,13,['qty-211'],[10]
+f1885cdc3b7f46785199c9962b02382649c8d0f20f4176682e049ace9847a7f5,12,"['qty-212', 'qty-212', 'qty-212']","[200, 10, 20]"
+f1885cdc3b7f46785199c9962b02382649c8d0f20f4176682e049ace9847a7f5,1,"['qty-211', 'qty-211', 'config_qty-213']","[430, 10, 270]"
+53ad78051c64bc0d2c5a825808c8cde3316283159dd9b74011d688f3bcafc2d9,13,"['qty-214', 'qty-214']","[10, 10]"
+53ad78051c64bc0d2c5a825808c8cde3316283159dd9b74011d688f3bcafc2d9,1,"['qty-215', 'qty-213', 'config_qty-216']","[290, 600, 50]"
+53ad78051c64bc0d2c5a825808c8cde3316283159dd9b74011d688f3bcafc2d9,2,['qty-214'],[10]
+23ad41a7793f7fc84ac20b5edd18a4b74963fa1e59928f0a6cb8d4434ed72a31,1,"['qty-217', 'config_qty-218']","[120, 830]"
+23ad41a7793f7fc84ac20b5edd18a4b74963fa1e59928f0a6cb8d4434ed72a31,12,['qty-216'],[10]
+a761f088817dbcf79ccb66e172cb93f4fabf927947c3e6b50f54bcffa2151b15,1,['config_qty-219'],[960]
+237426f73dc0dba0168da073055c08226e54db1bc1f2ea2b073d53bcb27fc449,1,['qty-220'],[950]
+237426f73dc0dba0168da073055c08226e54db1bc1f2ea2b073d53bcb27fc449,2,['config_qty-221'],[10]
+f42880bcb60d895415ab2cba934936335e20b8025fbd727612bd05e8485a2802,1,"['qty-222', 'qty-222']","[120, 820]"
+f42880bcb60d895415ab2cba934936335e20b8025fbd727612bd05e8485a2802,2,"['qty-221', 'config_qty-223']","[10, 10]"
+7073a3fd925d5d6e527b1d7681b42f400508bab1a33347dc4a5606fc4c62a1c9,1,"['qty-224', 'qty-224', 'qty-224', 'qty-224', 'config_qty-225']","[80, 300, 300, 190, 40]"
+7073a3fd925d5d6e527b1d7681b42f400508bab1a33347dc4a5606fc4c62a1c9,2,"['qty-223', 'qty-223', 'qty-223', 'qty-223']","[10, 10, 10, 10]"
+df1d4d2b3f2ab1e01b180bcd98fce4b53451418c96ab21962ff3b145d5ea316b,1,"['qty-226', 'qty-226', 'config_qty-227']","[360, 300, 280]"
+df1d4d2b3f2ab1e01b180bcd98fce4b53451418c96ab21962ff3b145d5ea316b,2,"['qty-225', 'qty-225']","[10, 10]"
+ff7a2c0e874392502c139c3ed18a60e71aaf5de71d03a005379e38f8bb748c32,1,"['qty-228', 'config_qty-229']","[930, 20]"
+ff7a2c0e874392502c139c3ed18a60e71aaf5de71d03a005379e38f8bb748c32,2,['qty-227'],[10]
+e65505b5e7c823d6863776f6c91a71274e6d6d6f9d82838e8c27a399258ea187,1,"['qty-230', 'config_qty-231']","[280, 670]"
+e65505b5e7c823d6863776f6c91a71274e6d6d6f9d82838e8c27a399258ea187,2,['qty-229'],[10]
+59d2b3c0a714d38d10c0266889363bc3fcb0c6ce8ff38a3ded37bd364aabbaca,2,['qty-232'],[10]
+59d2b3c0a714d38d10c0266889363bc3fcb0c6ce8ff38a3ded37bd364aabbaca,1,['config_qty-233'],[950]
+b9ae33345cf2a6b91f57d75b2b7aaad993b733302bbd803bc8a391bee5342b80,2,"['qty-234', 'qty-234', 'qty-234', 'qty-234', 'qty-234', 'qty-234', 'qty-234', 'qty-234', 'qty-234', 'qty-234']","[10, 20, 10, 10, 10, 10, 10, 10, 10, 10]"
+b9ae33345cf2a6b91f57d75b2b7aaad993b733302bbd803bc8a391bee5342b80,1,"['qty-233', 'qty-233', 'qty-233', 'qty-233', 'qty-233', 'qty-233', 'qty-233', 'qty-233', 'qty-233', 'config_qty-235']","[180, 290, 80, 10, 60, 120, 70, 10, 20, 10]"
+2b6abafa4590348992f34ca33eef826677c18b8f4a7e60bb48c3a325ddbe61db,1,"['qty-236', 'qty-236', 'config_qty-237']","[770, 120, 40]"
+2b6abafa4590348992f34ca33eef826677c18b8f4a7e60bb48c3a325ddbe61db,2,"['qty-235', 'qty-235']","[10, 20]"
+87c481ab5c371407e112928776387d657cb7b848fa912c88bc26aca8f2567f2e,2,"['qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-238', 'qty-239', 'qty-238', 'config_qty-240']","[10, 10, 10, 20, 20, 30, 20, 20, 40, 20, 20, 10, 50, 30, 20, 80, 120, 40, 70]"
+87c481ab5c371407e112928776387d657cb7b848fa912c88bc26aca8f2567f2e,1,"['qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237', 'qty-237']","[100, 30, 40, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 20]"
+87c481ab5c371407e112928776387d657cb7b848fa912c88bc26aca8f2567f2e,12,['qty-237'],[10]
+717e232fff4f996a40b12a69d92ac0f3a187cea07a762b7f5dfdd59feef606fe,2,"['qty-241', 'qty-241', 'qty-241', 'qty-241', 'qty-241', 'qty-241', 'qty-241', 'qty-241', 'qty-241', 'config_qty-242']","[240, 20, 80, 20, 10, 10, 10, 20, 10, 350]"
+717e232fff4f996a40b12a69d92ac0f3a187cea07a762b7f5dfdd59feef606fe,13,"['qty-240', 'qty-240', 'qty-240', 'qty-240', 'qty-240', 'qty-240', 'qty-240', 'qty-240', 'qty-240']","[140, 10, 10, 10, 10, 30, 260, 10, 40]"
+9066404f9c5d2015fb05c022a3806d1558f6f66c7a8fd60ee3b4bbf911df3e24,2,"['qty-243', 'qty-243', 'qty-243', 'qty-243', 'config_qty-244']","[290, 20, 10, 10, 10]"
+9066404f9c5d2015fb05c022a3806d1558f6f66c7a8fd60ee3b4bbf911df3e24,1,"['qty-242', 'qty-242', 'qty-242', 'qty-242']","[10, 270, 10, 20]"
+d268311f96a9626d9e166edace377e12bc1683bdbe0abc145512e6a2ca8bf743,2,"['qty-245', 'qty-245', 'qty-246', 'qty-246', 'qty-245', 'qty-245', 'qty-245']","[70, 470, 250, 20, 20, 10, 30]"
+d268311f96a9626d9e166edace377e12bc1683bdbe0abc145512e6a2ca8bf743,13,"['qty-244', 'qty-244', 'qty-244', 'qty-246', 'config_qty-247']","[20, 10, 10, 10, 10]"
+d268311f96a9626d9e166edace377e12bc1683bdbe0abc145512e6a2ca8bf743,1,"['qty-244', 'qty-244', 'qty-244']","[10, 10, 10]"
+64330ff42bf24374540c1b584568eaf91977af2eb550f1a09e042c55e173f323,1,"['qty-248', 'qty-249', 'config_qty-250']","[230, 290, 410]"
+64330ff42bf24374540c1b584568eaf91977af2eb550f1a09e042c55e173f323,2,['qty-247'],[10]
+64330ff42bf24374540c1b584568eaf91977af2eb550f1a09e042c55e173f323,13,['qty-247'],[10]
+e2ea98f5e0fb0eba1b8eaae6f9a4ea2ca59b8a5267847ba3bd342c892489a94c,12,['qty-251'],[10]
+e2ea98f5e0fb0eba1b8eaae6f9a4ea2ca59b8a5267847ba3bd342c892489a94c,1,['config_qty-252'],[950]
+6e2392b7e08db6102216956e97bdc611070b9d79e057a92fcb5188ba48c4ff03,1,['config_qty-253'],[960]
+59636872865cf8571abfd71eb927a9aef9b98caf1681921eb76afb1c2c6be26d,1,['config_qty-254'],[960]
+7fc310b87da8218e6e9e2a6f0ad371197ddcf159b55794393610af60ccb8df9b,1,['config_qty-255'],[960]
+37749b5373c8f36e56f60bd370c4899c79e0f768d794210d0831a8bce9b367f3,1,['config_qty-256'],[950]
+bceaafdfb47cf5c0cb2750f60711bfd74d5d63c73803c391c31b5ff006932ac8,1,"['qty-257', 'config_qty-258']","[920, 40]"
+bceaafdfb47cf5c0cb2750f60711bfd74d5d63c73803c391c31b5ff006932ac8,2,['qty-256'],[10]
+31bf26fe7a2cb0e2ab0ca7b19918d844df44099b84130040e78afbaa87a85f10,2,"['qty-259', 'qty-259', 'qty-259']","[10, 10, 10]"
+31bf26fe7a2cb0e2ab0ca7b19918d844df44099b84130040e78afbaa87a85f10,1,"['qty-258', 'qty-258', 'config_qty-260']","[250, 290, 390]"
+8a4a28271d85c4d90abff5bcf97480aaaec78a6815267e5263c415f8f6d87bae,2,"['qty-261', 'qty-261', 'qty-261', 'qty-261', 'config_qty-262']","[10, 10, 10, 10, 10]"
+8a4a28271d85c4d90abff5bcf97480aaaec78a6815267e5263c415f8f6d87bae,1,"['qty-260', 'qty-260', 'qty-260', 'qty-260']","[200, 300, 370, 40]"
+4a50823614176b03bd8f93ad9cbb9e1f5ab6710046f0f57b4df8f0535ac54f3f,2,"['qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263', 'qty-263']","[10, 10, 20, 10, 20, 40, 10, 80, 20, 10, 50, 10, 10, 60, 10, 10, 10, 20, 10, 10, 10, 10, 20]"
+4a50823614176b03bd8f93ad9cbb9e1f5ab6710046f0f57b4df8f0535ac54f3f,1,"['qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'qty-262', 'config_qty-264']","[10, 20, 30, 20, 20, 40, 20, 20, 10, 30, 10, 10, 20, 10, 10, 10, 20, 20, 20, 10, 30, 60, 40]"
+644b221147585263ced67bfaeea37bdc8d11f5eee13aea1f2f20440df8c0cb61,1,"['qty-265', 'config_qty-266']","[750, 200]"
+644b221147585263ced67bfaeea37bdc8d11f5eee13aea1f2f20440df8c0cb61,2,['qty-264'],[10]
+8b53433cf1a4e1935d6fd0229aa75e15c303ac731270234d2ce7311b56a45973,1,"['qty-267', 'qty-267', 'qty-267', 'qty-267']","[90, 610, 180, 40]"
+8b53433cf1a4e1935d6fd0229aa75e15c303ac731270234d2ce7311b56a45973,2,"['qty-266', 'qty-266', 'qty-266', 'config_qty-268']","[10, 10, 10, 10]"
+d68503ee18047084568dd8541f4c59d60198245296789585efac814d7b38f6b5,2,"['qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269', 'qty-269']","[70, 40, 40, 200, 50, 10, 10, 10, 10, 10, 50, 20, 10, 20, 30, 20, 90]"
+d68503ee18047084568dd8541f4c59d60198245296789585efac814d7b38f6b5,1,"['qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'qty-268', 'config_qty-270']","[10, 10, 10, 10, 30, 60, 20, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10]"
+941c01e996df900bde8ced9dfd9e9d6daf58c11959cc85a8c23003fb5b7db1e6,2,"['qty-271', 'qty-271', 'qty-271', 'qty-271', 'qty-271', 'qty-271', 'qty-271', 'qty-271', 'qty-271', 'qty-271', 'qty-271', 'qty-271', 'qty-271']","[20, 20, 10, 20, 10, 10, 20, 10, 10, 10, 10, 10, 10]"
+941c01e996df900bde8ced9dfd9e9d6daf58c11959cc85a8c23003fb5b7db1e6,1,"['qty-270', 'qty-270', 'qty-270', 'qty-270', 'qty-270', 'qty-270', 'qty-270', 'qty-270', 'qty-270', 'qty-270', 'qty-270', 'qty-270', 'config_qty-272']","[90, 160, 10, 40, 10, 30, 10, 80, 10, 50, 260, 20, 20]"
+7b20c8dabaf4ae5ee63ad79761fe282922fdc330c971bad233f82c986a9fc57f,2,"['qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273', 'qty-273']","[20, 30, 10, 20, 50, 30, 20, 20, 100, 50, 10, 20, 10, 20, 100, 90, 60, 60]"
+7b20c8dabaf4ae5ee63ad79761fe282922fdc330c971bad233f82c986a9fc57f,1,"['qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'qty-272', 'config_qty-274']","[10, 30, 20, 10, 10, 10, 10, 30, 10, 10, 10, 10, 20, 10, 10, 10, 10, 10]"
+103c46af05504fc2b97b0fbad77636b6e4185649aa348f10b190913cbef80578,2,['config_qty-275'],[960]
+66572dffbf77235885ed8b0e891510a90afdffac97af69c7c8d5d5b94ce0b77e,2,['config_qty-276'],[960]
+c82f393fddcac3d1b897efbe14bb32ec9f9debd681d2ad0fbeef9779f25bb5e7,2,"['qty-277', 'config_qty-278']","[910, 40]"
+c82f393fddcac3d1b897efbe14bb32ec9f9debd681d2ad0fbeef9779f25bb5e7,13,['qty-276'],[10]
+49ae84c0e783eae0aa2f8e2262d71fbac3a8d34196720c15fe46903683c84b56,2,"['qty-279', 'qty-279', 'qty-279', 'config_qty-280']","[420, 440, 20, 50]"
+49ae84c0e783eae0aa2f8e2262d71fbac3a8d34196720c15fe46903683c84b56,13,"['qty-278', 'qty-278', 'qty-278']","[10, 10, 10]"
+3b3f80b2421577c914e531f280d6048205df5994410c0e46ab32a9206b99646c,2,"['qty-281', 'qty-281', 'qty-281', 'config_qty-282']","[380, 300, 200, 50]"
+3b3f80b2421577c914e531f280d6048205df5994410c0e46ab32a9206b99646c,13,"['qty-280', 'qty-280', 'qty-280']","[10, 10, 10]"
+172aa6ec9724268504bf1013e1a620d66f5f924e1d8623ee5d51e21bb2b8d301,2,"['qty-283', 'qty-283', 'qty-283', 'qty-283', 'qty-283', 'qty-283', 'qty-283', 'qty-283', 'qty-283', 'config_qty-284']","[30, 40, 20, 10, 150, 60, 10, 30, 10, 40]"
+172aa6ec9724268504bf1013e1a620d66f5f924e1d8623ee5d51e21bb2b8d301,13,"['qty-282', 'qty-282', 'qty-282', 'qty-282', 'qty-282', 'qty-282', 'qty-282', 'qty-282', 'qty-282']","[10, 50, 40, 220, 10, 20, 10, 20, 170]"
+6d0f1611f9e4feb59f823ae2105181feb71a000f000bc13e497a8fbdd720e2cc,2,"['qty-285', 'qty-285', 'qty-285', 'qty-285', 'qty-285', 'qty-285', 'qty-285', 'config_qty-286']","[190, 10, 10, 10, 200, 60, 30, 50]"
+6d0f1611f9e4feb59f823ae2105181feb71a000f000bc13e497a8fbdd720e2cc,13,"['qty-284', 'qty-284', 'qty-284', 'qty-284', 'qty-284', 'qty-284', 'qty-284']","[20, 10, 10, 150, 10, 200, 10]"
+daac9341afc6e4f057c39be6888bf6b84272273d22420610949f99ed262f7a93,13,"['qty-287', 'qty-288', 'qty-287', 'qty-288', 'qty-288', 'qty-288', 'qty-288', 'qty-288', 'qty-288', 'qty-289', 'qty-289']","[10, 190, 70, 30, 20, 10, 10, 20, 10, 10, 10]"
+daac9341afc6e4f057c39be6888bf6b84272273d22420610949f99ed262f7a93,2,"['qty-286', 'qty-289', 'qty-286', 'qty-286', 'qty-288']","[100, 30, 120, 20, 30]"
+daac9341afc6e4f057c39be6888bf6b84272273d22420610949f99ed262f7a93,12,"['qty-286', 'qty-286', 'qty-286', 'qty-286', 'qty-286', 'qty-286', 'qty-287', 'config_qty-290']","[10, 20, 10, 10, 50, 10, 110, 10]"
+daac9341afc6e4f057c39be6888bf6b84272273d22420610949f99ed262f7a93,1,"['qty-287', 'qty-286', 'qty-287']","[10, 20, 10]"
+25987b4566aa72a70619adbe00f4abaeff7b0228816a277e4791e4ae2d52cf68,1,"['qty-291', 'qty-291', 'qty-291', 'qty-292', 'qty-292', 'qty-293', 'qty-293']","[190, 10, 10, 130, 30, 370, 40]"
+25987b4566aa72a70619adbe00f4abaeff7b0228816a277e4791e4ae2d52cf68,12,"['qty-290', 'qty-290', 'qty-290']","[10, 40, 90]"
+25987b4566aa72a70619adbe00f4abaeff7b0228816a277e4791e4ae2d52cf68,13,"['qty-290', 'qty-290']","[10, 10]"
+25987b4566aa72a70619adbe00f4abaeff7b0228816a277e4791e4ae2d52cf68,2,"['qty-290', 'config_qty-294']","[10, 10]"
+0a0f2eb15c3c4c9c84126f4a7af4830e00f8ed0f1d801aaa6bac49cf06098a4c,1,"['qty-295', 'config_qty-296']","[900, 50]"
+0a0f2eb15c3c4c9c84126f4a7af4830e00f8ed0f1d801aaa6bac49cf06098a4c,2,['qty-294'],[10]
+ef35b59d842103a4e19f501d52e8ffda7977b5623637758303f1db7a9a8b0ce1,1,"['qty-297', 'qty-297', 'config_qty-298']","[130, 750, 50]"
+ef35b59d842103a4e19f501d52e8ffda7977b5623637758303f1db7a9a8b0ce1,2,"['qty-296', 'qty-296']","[10, 10]"
+11567eb159986cc710ac560e26d6038381a42346daf6f04234e07e6582f32005,2,"['qty-299', 'qty-299']","[10, 10]"
+11567eb159986cc710ac560e26d6038381a42346daf6f04234e07e6582f32005,1,"['qty-298', 'config_qty-300']","[80, 860]"
+749b7a1c6b8af6c80b4323e036da63d49eabac8c8472a121a91af2e54fa95322,2,['qty-301'],[10]
+749b7a1c6b8af6c80b4323e036da63d49eabac8c8472a121a91af2e54fa95322,1,['config_qty-302'],[950]
+44b2f4e9fe1c47f50f0201cc32ef82db4029569a25876ba5ace09d30e0830d7c,2,"['qty-303', 'qty-303', 'qty-303', 'qty-303']","[10, 10, 10, 10]"
+44b2f4e9fe1c47f50f0201cc32ef82db4029569a25876ba5ace09d30e0830d7c,1,"['qty-302', 'qty-302', 'qty-302', 'config_qty-304']","[610, 280, 10, 20]"
+25f661f08d177c0a9bf19b58ee8966814605f05a03e8988b6acc176750b791df,-30,['qty-305'],[10]
+25f661f08d177c0a9bf19b58ee8966814605f05a03e8988b6acc176750b791df,1,"['qty-306', 'qty-306', 'qty-306', 'qty-306', 'qty-306', 'qty-306', 'qty-306', 'qty-306', 'qty-306', 'qty-306', 'qty-306', 'qty-306', 'qty-306']","[20, 140, 20, 20, 10, 20, 190, 10, 30, 160, 130, 10, 30]"
+25f661f08d177c0a9bf19b58ee8966814605f05a03e8988b6acc176750b791df,2,"['qty-305', 'qty-305', 'qty-305', 'qty-305', 'qty-305', 'qty-305', 'qty-305', 'qty-305', 'qty-305', 'qty-305', 'qty-305', 'qty-305', 'config_qty-307']","[10, 10, 10, 30, 10, 20, 10, 10, 10, 10, 10, 10, 10]"
+965c5e5316cf1743b5f1ef46dc774315fd0a02fceea17456fa3e7377478ffeb3,1,"['qty-308', 'config_qty-309']","[850, 100]"
+965c5e5316cf1743b5f1ef46dc774315fd0a02fceea17456fa3e7377478ffeb3,2,['qty-307'],[10]
+bcc027ebcda14173647ae09809e2579f70ced7e8a8ea823a58be05eab1b5bdd1,2,"['qty-310', 'qty-310', 'qty-310', 'qty-310', 'qty-310', 'qty-310', 'qty-310', 'qty-310', 'qty-310', 'qty-310', 'qty-310', 'qty-310', 'config_qty-311']","[10, 10, 10, 10, 10, 10, 30, 10, 20, 10, 10, 10, 20]"
+bcc027ebcda14173647ae09809e2579f70ced7e8a8ea823a58be05eab1b5bdd1,1,"['qty-309', 'qty-309', 'qty-309', 'qty-309', 'qty-309', 'qty-309', 'qty-309', 'qty-309', 'qty-309', 'qty-309', 'qty-309', 'qty-309']","[20, 10, 10, 10, 60, 20, 280, 20, 80, 170, 40, 70]"
+d2747e4fcac2fe51c46c5ed79d8a4a855e3f0e05bdffb2ff99af06030be4f8cf,2,"['qty-312', 'qty-312', 'qty-312', 'qty-312', 'qty-312', 'qty-312', 'qty-312', 'qty-312', 'qty-312', 'qty-312', 'qty-312', 'qty-312', 'qty-312']","[30, 10, 40, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+d2747e4fcac2fe51c46c5ed79d8a4a855e3f0e05bdffb2ff99af06030be4f8cf,1,"['qty-311', 'qty-311', 'qty-311', 'qty-311', 'qty-311', 'qty-311', 'qty-311', 'qty-311', 'qty-311', 'qty-311', 'qty-311', 'qty-311', 'config_qty-313']","[10, 10, 10, 10, 10, 10, 140, 90, 30, 50, 240, 120, 50]"
+874ccc900d833c16b27034210203bd5bbdfb5e40e61e2f0cf2c33a6090890bae,2,"['qty-314', 'qty-314', 'qty-314', 'qty-314', 'qty-314', 'qty-314', 'qty-314', 'qty-314', 'qty-314', 'qty-314']","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+874ccc900d833c16b27034210203bd5bbdfb5e40e61e2f0cf2c33a6090890bae,1,"['qty-313', 'qty-313', 'qty-313', 'qty-313', 'qty-313', 'qty-313', 'qty-313', 'qty-313', 'qty-313', 'config_qty-315']","[20, 20, 20, 10, 170, 10, 100, 300, 160, 50]"
+e51670e27dccefabbf7bbc4b5fed926715af094772924eafe54e45ed59dc5e04,2,"['qty-316', 'qty-316', 'qty-316', 'qty-316', 'qty-316', 'qty-316', 'qty-316', 'qty-316', 'qty-316', 'qty-316', 'qty-316']","[10, 10, 10, 10, 10, 20, 20, 20, 10, 50, 10]"
+e51670e27dccefabbf7bbc4b5fed926715af094772924eafe54e45ed59dc5e04,1,"['qty-315', 'qty-315', 'qty-315', 'qty-315', 'qty-315', 'qty-315', 'qty-315', 'qty-315', 'qty-315', 'qty-315', 'config_qty-317']","[30, 20, 70, 220, 290, 40, 10, 20, 20, 10, 50]"
+7ba0f26ea3967c3d3421eef39ad67be9f0f4973dc88b78b9b1969f5b54f0b420,2,"['qty-318', 'qty-318', 'qty-318', 'qty-318', 'qty-318', 'config_qty-319']","[10, 100, 50, 10, 680, 30]"
+7ba0f26ea3967c3d3421eef39ad67be9f0f4973dc88b78b9b1969f5b54f0b420,1,"['qty-317', 'qty-317', 'qty-317', 'qty-317', 'qty-317']","[20, 10, 20, 10, 10]"
+64870da1220977f014af9ae9cf8a8d7992fac6e27a207e69fb48ea9c72e93289,2,"['qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'qty-320', 'config_qty-321']","[20, 20, 20, 20, 20, 10, 10, 20, 10, 10, 10, 10, 10, 10, 10, 110, 110]"
+64870da1220977f014af9ae9cf8a8d7992fac6e27a207e69fb48ea9c72e93289,1,"['qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319', 'qty-319']","[140, 10, 10, 10, 10, 20, 10, 110, 40, 30, 10, 30, 20, 50, 30, 10]"
+0e9200c9ff7c60402cb70919e269e9ff486ceb147080cb8938d6d41688589316,2,['config_qty-322'],[960]
+528ff8c0a69874c33f70f03b67269b5e16956ef3d7cc56060c5e3bdaa6c5236a,2,"['qty-323', 'qty-323', 'qty-323', 'qty-323', 'qty-323', 'qty-324']","[20, 50, 10, 720, 10, 20]"
+528ff8c0a69874c33f70f03b67269b5e16956ef3d7cc56060c5e3bdaa6c5236a,1,"['qty-322', 'qty-322', 'qty-322', 'qty-322', 'qty-322']","[20, 10, 10, 60, 20]"
+528ff8c0a69874c33f70f03b67269b5e16956ef3d7cc56060c5e3bdaa6c5236a,13,['config_qty-325'],[10]
+95a38c39b2d1b10c02f6531e5f1fde3c3262fe917def445ca411341a68a81931,2,"['qty-326', 'qty-326', 'qty-326', 'qty-326', 'qty-326', 'qty-326', 'qty-326', 'qty-326', 'config_qty-327']","[50, 530, 100, 40, 50, 40, 10, 20, 40]"
+95a38c39b2d1b10c02f6531e5f1fde3c3262fe917def445ca411341a68a81931,1,"['qty-325', 'qty-325', 'qty-325', 'qty-325', 'qty-325', 'qty-325', 'qty-325', 'qty-325']","[10, 10, 10, 10, 10, 10, 10, 10]"
+551f0dff429b95798b866d4644511330fb4b2c353c1c9264e46a2ce330078cbf,2,"['qty-328', 'qty-328', 'qty-328', 'qty-328', 'qty-328', 'qty-328', 'qty-329', 'qty-329', 'qty-328', 'qty-328', 'qty-328', 'qty-328']","[540, 10, 40, 20, 10, 10, 30, 30, 10, 20, 20, 30]"
+551f0dff429b95798b866d4644511330fb4b2c353c1c9264e46a2ce330078cbf,1,"['qty-327', 'qty-327', 'qty-327', 'qty-327', 'qty-327', 'qty-327', 'qty-329', 'qty-327', 'qty-327', 'qty-327', 'config_qty-330']","[10, 20, 10, 20, 10, 20, 10, 10, 10, 10, 20]"
+551f0dff429b95798b866d4644511330fb4b2c353c1c9264e46a2ce330078cbf,13,"['qty-327', 'qty-327', 'qty-328']","[10, 10, 10]"
+be4ac23008d261e98771fd7ccd3ada44da88d3178001b88fa165390e70073b35,2,"['qty-331', 'qty-331', 'qty-331', 'qty-331', 'qty-331', 'qty-331', 'qty-331', 'qty-331', 'qty-331', 'qty-331', 'qty-331', 'qty-332', 'qty-331', 'qty-333', 'qty-333', 'qty-331', 'qty-331', 'qty-331', 'qty-333']","[130, 20, 20, 10, 20, 20, 40, 10, 60, 90, 20, 60, 20, 20, 10, 60, 40, 30, 10]"
+be4ac23008d261e98771fd7ccd3ada44da88d3178001b88fa165390e70073b35,1,"['qty-330', 'qty-330', 'qty-330', 'qty-330', 'qty-330', 'qty-332', 'qty-330', 'qty-330', 'qty-330', 'qty-330', 'qty-330', 'qty-330', 'qty-330', 'qty-330', 'qty-330', 'qty-330']","[10, 10, 10, 10, 20, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+be4ac23008d261e98771fd7ccd3ada44da88d3178001b88fa165390e70073b35,13,"['qty-330', 'qty-331', 'qty-330', 'qty-333']","[10, 10, 20, 10]"
+be4ac23008d261e98771fd7ccd3ada44da88d3178001b88fa165390e70073b35,12,"['qty-332', 'qty-332', 'qty-330', 'config_qty-334']","[10, 10, 10, 20]"
+12d871c11ea4e19e45eb763aab4413231edae12c5a908b769417bb96e046ba96,13,"['qty-335', 'qty-335']","[10, 10]"
+12d871c11ea4e19e45eb763aab4413231edae12c5a908b769417bb96e046ba96,1,"['qty-334', 'qty-336', 'qty-336', 'qty-336', 'qty-336', 'config_qty-337']","[50, 510, 10, 10, 230, 40]"
+12d871c11ea4e19e45eb763aab4413231edae12c5a908b769417bb96e046ba96,12,"['qty-335', 'qty-335', 'qty-335', 'qty-335']","[10, 10, 60, 10]"
+4b7ba8126a48c8764b39b00856d92e3e7fc216d1b1d5931f0f097c9e0fc58d42,12,['qty-338'],[10]
+4b7ba8126a48c8764b39b00856d92e3e7fc216d1b1d5931f0f097c9e0fc58d42,1,['config_qty-339'],[930]
+e86be7213fab042b17823b71aac45b2b96a74e1336c2c72461bc6f2e1ad5bf2e,1,['config_qty-340'],[980]
+96b94a4e5dc907c804a76fbe18e551007a2e9fc94352965b41e99639cfa6f523,1,['config_qty-341'],[960]
+319b3d49519363e8371b9cd8f0f8a9799f42285ca3479606ba92a70b30700110,2,['qty-342'],[10]
+319b3d49519363e8371b9cd8f0f8a9799f42285ca3479606ba92a70b30700110,1,['config_qty-343'],[950]
+94b9f6b2fa57fb9fe82d1d84eb8acbcba4589c3bceca34cab884f2634765e9c7,1,['qty-344'],[960]
+94b9f6b2fa57fb9fe82d1d84eb8acbcba4589c3bceca34cab884f2634765e9c7,2,['config_qty-345'],[10]
+f6ee3cbb680d12a29f40b07ffe5d663106b6175424699bcc6b87aa47d44224a5,2,"['qty-346', 'qty-346', 'qty-346']","[10, 10, 10]"
+f6ee3cbb680d12a29f40b07ffe5d663106b6175424699bcc6b87aa47d44224a5,1,"['qty-345', 'qty-345', 'config_qty-347']","[100, 300, 520]"
+68e919a17a9b8ec4710ac2735ccab842b24a0ae76c4213359747e4794cd7483f,2,"['qty-348', 'qty-348', 'qty-348']","[10, 10, 10]"
+68e919a17a9b8ec4710ac2735ccab842b24a0ae76c4213359747e4794cd7483f,1,"['qty-347', 'qty-347', 'config_qty-349']","[380, 290, 260]"
+09f30f6fbce1d1dc8056dcb9dc129247c22bb0cfb13eb7a04b9f5b4d83530dad,2,"['qty-350', 'qty-350', 'qty-350', 'qty-350', 'qty-350', 'qty-350', 'qty-350', 'qty-350', 'qty-350', 'qty-350', 'qty-350', 'qty-350', 'qty-350', 'qty-350', 'qty-350', 'config_qty-351']","[30, 20, 10, 10, 10, 10, 10, 20, 20, 10, 10, 10, 20, 30, 40, 40]"
+09f30f6fbce1d1dc8056dcb9dc129247c22bb0cfb13eb7a04b9f5b4d83530dad,1,"['qty-349', 'qty-349', 'qty-349', 'qty-349', 'qty-349', 'qty-349', 'qty-349', 'qty-349', 'qty-349', 'qty-349', 'qty-349', 'qty-349', 'qty-349', 'qty-349', 'qty-349']","[10, 10, 20, 30, 50, 50, 70, 100, 20, 140, 250, 40, 150, 20, 10]"
+193a3d278cbfe03ea78aa3cde9705ea15026da59eb0f7b758b501363916d3f13,2,"['qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352', 'qty-352']","[110, 30, 10, 10, 10, 60, 10, 10, 10, 30, 10, 10, 10, 20, 50, 20, 10]"
+193a3d278cbfe03ea78aa3cde9705ea15026da59eb0f7b758b501363916d3f13,1,"['qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'qty-351', 'config_qty-353']","[10, 10, 20, 10, 10, 10, 10, 10, 20, 20, 10, 40, 10, 10, 10, 10, 10]"
+e19b411c4a3c314bcae0d21dac8b4aa324da26719be832f114a725df19b0fd0c,2,"['qty-354', 'qty-354', 'qty-354', 'qty-354', 'qty-354', 'qty-354', 'qty-354']","[10, 10, 10, 10, 10, 10, 10]"
+e19b411c4a3c314bcae0d21dac8b4aa324da26719be832f114a725df19b0fd0c,1,"['qty-353', 'qty-353', 'qty-353', 'qty-353', 'qty-353', 'qty-353', 'config_qty-355']","[30, 50, 150, 300, 300, 20, 40]"
+840190b8edc224b603914fd7c40bc00eb387706bfeb5d3bcc07423e84d19d9cd,2,"['qty-356', 'qty-356', 'qty-356']","[10, 10, 10]"
+840190b8edc224b603914fd7c40bc00eb387706bfeb5d3bcc07423e84d19d9cd,1,"['qty-355', 'qty-355', 'config_qty-357']","[210, 680, 50]"
+54af7911c77b3896593f55f439b369255be15a309d9c800a7b3c578227193239,2,"['qty-358', 'qty-358']","[10, 10]"
+54af7911c77b3896593f55f439b369255be15a309d9c800a7b3c578227193239,1,"['qty-357', 'config_qty-359']","[160, 780]"
+f83411a853c6ea05d2ac0a8429cb30ed0c1f58a61dd6f831ac7665a559094e48,13,"['qty-360', 'qty-361', 'qty-361', 'qty-361']","[10, 10, 20, 10]"
+f83411a853c6ea05d2ac0a8429cb30ed0c1f58a61dd6f831ac7665a559094e48,1,"['qty-361', 'qty-361', 'qty-361', 'qty-361', 'qty-361', 'qty-361']","[30, 10, 40, 10, 10, 10]"
+f83411a853c6ea05d2ac0a8429cb30ed0c1f58a61dd6f831ac7665a559094e48,2,"['qty-360', 'qty-360', 'qty-360', 'qty-360', 'qty-360', 'qty-359', 'qty-359', 'qty-359', 'config_qty-362']","[10, 10, 150, 260, 50, 270, 20, 10, 20]"
+4fb463ec6182c1248ac3acc4d965ac2343683f9777cb0d5330261b290ac2f9ec,2,"['qty-363', 'qty-363', 'qty-363', 'qty-363', 'qty-363', 'qty-363', 'qty-363', 'qty-363', 'config_qty-364']","[280, 30, 10, 180, 20, 10, 20, 10, 10]"
+4fb463ec6182c1248ac3acc4d965ac2343683f9777cb0d5330261b290ac2f9ec,13,"['qty-362', 'qty-362', 'qty-362', 'qty-362', 'qty-362', 'qty-362', 'qty-362', 'qty-362']","[20, 30, 60, 20, 10, 210, 20, 20]"
+66e03ca7d27e9fa56ad563e8de10badd3c19c442af26acba09cf7ea03f14f313,13,"['qty-365', 'qty-365', 'qty-365', 'qty-365', 'qty-365', 'config_qty-366']","[10, 340, 10, 20, 40, 470]"
+66e03ca7d27e9fa56ad563e8de10badd3c19c442af26acba09cf7ea03f14f313,2,"['qty-364', 'qty-364', 'qty-364', 'qty-364', 'qty-364']","[20, 20, 10, 10, 10]"
+251a9539e0f19474c12ee0a43b267490ea3a9e0736f5bdfce6d52dc105b89f2f,13,['config_qty-367'],[960]
+54c2d3e1ad3588ff5f3977105289ae4eabec42389155ccb7cae462f7c11f77a8,13,['config_qty-368'],[960]
+1a9d6fd75ceb7f41215822ba7bd529f9e2c0ff61d57f98c560f82e7a6c5127ad,13,['qty-369'],[950]
+1a9d6fd75ceb7f41215822ba7bd529f9e2c0ff61d57f98c560f82e7a6c5127ad,12,['config_qty-370'],[10]
+9ce6bd2bff2340fa29afad45d393716e3ce68b4e185d3415b5addb33c02987c0,13,"['qty-371', 'qty-371', 'qty-371', 'qty-371', 'qty-371', 'qty-371', 'qty-372', 'qty-372']","[130, 10, 10, 300, 10, 20, 70, 40]"
+9ce6bd2bff2340fa29afad45d393716e3ce68b4e185d3415b5addb33c02987c0,2,"['qty-370', 'qty-370', 'qty-370', 'qty-370', 'qty-370', 'qty-370']","[60, 70, 10, 180, 20, 10]"
+9ce6bd2bff2340fa29afad45d393716e3ce68b4e185d3415b5addb33c02987c0,12,"['qty-370', 'config_qty-373']","[10, 10]"
+46ea7f56c0068f067386282f1d17350370249b770f5590a1e7f38da95dbbd135,13,"['qty-374', 'qty-374', 'qty-375', 'qty-375', 'qty-374', 'qty-374', 'qty-374', 'qty-374', 'qty-374']","[10, 30, 20, 10, 10, 10, 10, 10, 10]"
+46ea7f56c0068f067386282f1d17350370249b770f5590a1e7f38da95dbbd135,12,"['qty-373', 'qty-373', 'qty-375', 'qty-373', 'qty-373', 'qty-376', 'qty-376', 'qty-373', 'qty-373', 'config_qty-377']","[10, 20, 20, 40, 110, 70, 10, 40, 130, 50]"
+46ea7f56c0068f067386282f1d17350370249b770f5590a1e7f38da95dbbd135,2,"['qty-373', 'qty-376', 'qty-376', 'qty-376', 'qty-373', 'qty-376']","[60, 30, 10, 10, 10, 10]"
+46ea7f56c0068f067386282f1d17350370249b770f5590a1e7f38da95dbbd135,1,"['qty-375', 'qty-375', 'qty-374', 'qty-375', 'qty-374', 'qty-374']","[10, 10, 30, 20, 130, 10]"
+5897ea7596b867bbb596920d838bcc85361bedb59c0662e34c288b5a58f7eccc,12,"['qty-378', 'qty-378', 'qty-378']","[30, 10, 10]"
+5897ea7596b867bbb596920d838bcc85361bedb59c0662e34c288b5a58f7eccc,1,"['qty-379', 'qty-377', 'qty-377', 'config_qty-380']","[80, 300, 480, 40]"
+5897ea7596b867bbb596920d838bcc85361bedb59c0662e34c288b5a58f7eccc,2,['qty-378'],[10]
+b909bd5696cf4f7ed467e590eb1f57243f855e07472d1954c2a860edd4ef3e65,1,"['qty-381', 'config_qty-382']","[370, 570]"
+b909bd5696cf4f7ed467e590eb1f57243f855e07472d1954c2a860edd4ef3e65,12,['qty-380'],[20]
+c905491ab8c16bb4c4497f7f5fcc1e54780dc7c3eb685540b4cd45457cde636d,1,['config_qty-383'],[950]
+d1874bff592d21ed7c46954de9fdc45781c236e500da6e4a7e4153656b9cc456,1,"['qty-384', 'qty-384']","[610, 340]"
+d1874bff592d21ed7c46954de9fdc45781c236e500da6e4a7e4153656b9cc456,2,"['qty-383', 'config_qty-385']","[10, 10]"
+e7a9b3b7de5782b42215205b7e9d1b35a2cb636a3efaaaa2d02bb89feb64563e,1,"['qty-386', 'config_qty-387']","[250, 700]"
+e7a9b3b7de5782b42215205b7e9d1b35a2cb636a3efaaaa2d02bb89feb64563e,2,['qty-385'],[10]
+43efd80970bd25397452d3fb2097285a26028f30e81c667859fd5c56fcf8a6fa,1,['config_qty-388'],[960]
+f5619d21873f0e8aad687812c9a4fcbb8336b650fce3295af643cde89676bb66,1,"['qty-389', 'qty-389', 'qty-389']","[170, 720, 40]"
+f5619d21873f0e8aad687812c9a4fcbb8336b650fce3295af643cde89676bb66,2,"['qty-388', 'qty-388', 'config_qty-390']","[10, 10, 10]"
+8b94384747a0484359e1875e8cf009316652e4e0a8a79724f4eca19df0671262,2,"['qty-391', 'qty-391', 'qty-391']","[10, 10, 10]"
+8b94384747a0484359e1875e8cf009316652e4e0a8a79724f4eca19df0671262,1,"['qty-390', 'qty-390']","[120, 300]"
