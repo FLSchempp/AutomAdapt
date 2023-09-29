@@ -23,6 +23,7 @@ import java.util.Properties;
 public class DelayCalc {
 
     public static void main(String[] args) {
+        // Set up the configuration.
         final String bootstrapServers = args.length > 0 ? args[0] : "IP_Address:Port";
         final Properties streamsConfiguration = new Properties();
         // Give the Streams application a unique name.  The name must be unique in the Kafka cluster
@@ -37,25 +38,26 @@ public class DelayCalc {
         // Set the commit interval to 500ms so that any changes are flushed frequently. The low latency
         // would be important for anomaly detection.
         streamsConfiguration.put(StreamsConfig.COMMIT_INTERVAL_MS_CONFIG, 500);
-
+        // Set up serializers and deserializers, which we will use for overriding the default serdes
         final Serde<String> stringSerde = Serdes.String();
         final Serde<Long> longSerde = Serdes.Long();
-
+        // Defition of the processing topology of the Streams application
         final StreamsBuilder builder = new StreamsBuilder();
-
         final KStream<String, Long> s_packets = builder.stream("delay_talker_topic");
         final KStream<String, Long> r_packets = builder.stream("delay_listener_topic");
 
+        // Join the two streams using a window of 1 second
         ValueJoiner<Long, Long, Long> valueJoiner = (leftValue, rightValue) -> {
                 return rightValue - leftValue;
         };
-
+    
         KStream<String, Long> result_packets = s_packets.join(r_packets,
                 valueJoiner,
                 JoinWindows.of(Duration.ofSeconds(1)));
 
+        // Send the delay calculation result to the delay_topic
         result_packets.to("delay_topic", Produced.with(stringSerde, longSerde));
-
+        // Start the topology
         final KafkaStreams streams = new KafkaStreams(builder.build(), streamsConfiguration);
         streams.cleanUp();
         streams.start();

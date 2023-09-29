@@ -24,18 +24,15 @@ import java.util.concurrent.ExecutionException;
 
 
 public class Talker {
-
+    // Set the brokers (bootstrap servers)
     private static final String brokers = "IP_ADDRESS:PORT";
     private static final String delay_topic = "delay_talker_topic";
     private static final String throughput_topic = "throughput_talker_topic";
-
-
+    // Set the variables
     private static final String COUNT_KEY = Loop.class.getName() + ".count";
     private static final int COUNT = Integer.getInteger(COUNT_KEY, 0);
-
     private static final String READ_TIMEOUT_KEY = Loop.class.getName() + ".readTimeout";
     private static final int READ_TIMEOUT = Integer.getInteger(READ_TIMEOUT_KEY, 10); // [ms]
-
     private static final String SNAPLEN_KEY = Loop.class.getName() + ".snaplen";
     private static final int SNAPLEN = Integer.getInteger(SNAPLEN_KEY, 65536); // [bytes]
 
@@ -50,7 +47,7 @@ public class Talker {
         properties.setProperty("value.serializer","org.apache.kafka.common.serialization.LongSerializer");
         // Kafka producer declaration
         KafkaProducer<String, Long> producer = new KafkaProducer<>(properties);
-
+        // Set the network interface
         PcapNetworkInterface nif;
         try {
             nif = new NifSelector().selectNetworkInterface();
@@ -66,7 +63,7 @@ public class Talker {
         System.out.println(nif.getName() + "(" + nif.getDescription() + ")");
 
         final PcapHandle handle_sender = nif.openLive(SNAPLEN, PcapNetworkInterface.PromiscuousMode.PROMISCUOUS, READ_TIMEOUT);
-        // Set a filter to only listen for UDP packets on port 8888 (PackETH traffic)
+        // Set a filter to only listen for 802.1Q packets
         String filter = "ether proto 0x8100";
         handle_sender.setFilter(filter, BpfProgram.BpfCompileMode.OPTIMIZE);
 

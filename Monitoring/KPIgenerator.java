@@ -23,17 +23,19 @@ import java.util.Properties;
 import static java.lang.Math.abs;
 
 public class KPIgenerator {
-
+    // Set the brokers (bootstrap servers)
     private static final String brokers = "IP_Address:Port";
+    // Set the topics 
     private static final String topicDelay = "delay_topic";
     private static final String topicThroughputS = "throughput_talker_topic";
     private static final String topicThroughputR = "throughput_listener_topic";
+    // Set the InfluxDB parameters and create the InfluxDBClient
     static char[] token = "private_token_id".toCharArray();
     private static String org = "UMA";
     private static String bucket = "schempp";
     static InfluxDBClient influxDBClient = InfluxDBClientFactory.create("http://IP_Address:Port", token, org, bucket);
     static WriteApiBlocking writeApi = influxDBClient.getWriteApiBlocking();
-
+    // Set the variables used to calculate the KPIs
     static ArrayList<Long> delay_list = new ArrayList<>();
     static long old_delay = 0;
     static long current_delay = 0;
@@ -53,6 +55,7 @@ public class KPIgenerator {
         properties.setProperty("value.deserializer","org.apache.kafka.common.serialization.LongDeserializer");
         properties.put("group.id", "kpi");
 
+        // Create a KafkaConsumer instance and configure it with properties.
         KafkaConsumer<String, Long> delayC = new KafkaConsumer<>(properties);
         delayC.subscribe(Collections.singletonList(topicDelay));
         KafkaConsumer<String, Long> thrSC = new KafkaConsumer<>(properties);
@@ -62,10 +65,12 @@ public class KPIgenerator {
 
 
         while (true) {
+            // Poll for records 
             ConsumerRecords<String, Long> delayRecords = delayC.poll(Duration.ofMillis(1000));
             ConsumerRecords<String, Long> thrSRecords = thrSC.poll(Duration.ofMillis(1000));
             ConsumerRecords<String, Long> thrRRecords = thrRC.poll(Duration.ofMillis(1000));
 
+            // If records are found, calculate the KPIs
             delayCalculation(delayRecords);
             jitterCalculation(delayRecords);
             throughputCalculation(thrSRecords, thrRRecords);
@@ -73,7 +78,7 @@ public class KPIgenerator {
 
         }
 
-
+    // Calculate the delay and send it to InfluxDB
     private static void delayCalculation(ConsumerRecords<String, Long> dRecords) {
         long time = 0;
         for (ConsumerRecord<String, Long> record : dRecords) {
@@ -88,8 +93,8 @@ public class KPIgenerator {
         }
     }
 
+    // Calculate the jitter and send it to InfluxDB
     private static void jitterCalculation(ConsumerRecords<String, Long> jRecords) {
-
         for (ConsumerRecord<String, Long> record : jRecords) {
             if (old_delay == 0)
                 old_delay = record.value();
@@ -116,6 +121,7 @@ public class KPIgenerator {
         }
     }
 
+    // Calculate the throughput and packet loss, and send them to InfluxDB
     private static void throughputCalculation(ConsumerRecords<String, Long> sTRecords, ConsumerRecords<String, Long> rTRecords) {
         sum_bytes_sender = 0;
         sum_bytes_receiver = 0;
@@ -151,7 +157,7 @@ public class KPIgenerator {
         }
     }
 
-
+    // Auxiliary function to send the data to InfluxDB
     private static boolean toInfluxDB(Point point_to_add) {
         try {
             writeApi.writePoint(point_to_add);
