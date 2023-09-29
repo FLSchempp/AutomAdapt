@@ -6,6 +6,8 @@
 
 AutomAdapt is a tool to implement **Zero Touch Configuration of 5G QoS Flows extended for Time-Sensitive Networking**
 
+Refer to the research article [AutomAdapt: Zero Touch Configuration of 5G QoS Flows Extended for Time-Sensitive Networking](https://ieeexplore.ieee.org/document/10209171) for further information.
+
 AutomAdapt features
 ---------------
 - [Monitoring](https://github.com/FLSchempp/AutomAdapt/tree/main/Monitoring)
