@@ -20,7 +20,10 @@ AutomAdapt dataset
 - [Data set](https://github.com/FLSchempp/AutomAdapt/tree/main/Dataset)
   - Learned automata
   - Network configurations
+  - Raw data examples
 - [Evaluation](https://github.com/FLSchempp/AutomAdapt/tree/main/Evaluation)
+  - Pre-learning phase
+  - Prediction and Reconfiguration phase
 
 Prerequisites
 -----------
@@ -33,7 +36,6 @@ Prerequisites
   - Files
     - [Chassis configuration](tsn_translators/chassis_config.pb.txt)
     - [P4Runtime script](tsn_translators/P4Runtime_DS-TT.py)
-
 
 PTP synchronization
 -----------
